@@ -1,37 +1,43 @@
 # Luggage strategy
 
-The trip works best with **one medium checked suitcase + one small daypack**, using forwarding strategically rather than dragging everything through rural transfers.
+This itinerary will be much easier with luggage forwarding.
 
 ## Forwarding 1 — Tokyo → Takayama or Kanazawa
 
-**When:** Oct 7 or Oct 8 morning  
-**Send:** main suitcase  
-**Keep:** 2–3 nights of clothes + toiletries in daypack
+Use small bags for:
 
-**Option A — Tokyo → Takayama:**
+- Nikko  
+- Kiso Valley
 
-Send the big bag from Tokyo hotel on Oct 7 to Takayama hotel. Travel Tokyo → Nikko → Tokyo with the small bag, then Tokyo → Kiso with the small bag. The main suitcase arrives in Takayama for Oct 10 check-in.
+Reunite with main luggage in **Takayama** or **Kanazawa**.
 
-**Option B — Tokyo → Kanazawa:**
-
-If the Takayama hotel cannot receive forwarded luggage reliably, send the main suitcase directly to Kanazawa. Carry the small bag through Kiso and Takayama, then reunite with the suitcase on Oct 12.
-
-**Recommendation:** Option A is more comfortable if confirmed with the Takayama hotel. Option B is the safe fallback.
+**Simpler option:** send to Takayama.  
+**More minimalist option:** send to Kanazawa and travel lighter for longer.
 
 ## Forwarding 2 — Kyoto/Osaka → Osaka
 
-This section should be reviewed once the actual Kyoto/Osaka hotel sequence is locked. Avoid forwarding a bag to a hotel you are leaving immediately afterward.
+Use small bags for:
+
+- Koyasan  
+- Kumano Kodo
+
+Reunite with main luggage in Osaka after Kumano.
+
+This is probably the most important forwarding of the trip.
 
 ## Forwarding 3 — Osaka → Hiroshima
 
-**When:** Oct 30 or Oct 31  
-**Send:** main suitcase  
-**Keep:** 1–2 nights of clothes for Kinosaki + Onomichi + cycling
+Use small bags for:
 
-This is the most useful late-trip forwarding leg. The main bag can go ahead to the Hiroshima hotel while you travel light through Kinosaki and Onomichi.
+- Kinosaki Onsen  
+- Onomichi  
+- Shimanami Kaido  
+- Matsuyama
+
+Send main bags from Osaka directly to the **Hiroshima hotel** before departing for Kinosaki on Oct 31 (the hotel must be booked first, and told to hold a package several days; set a Yamato **scheduled delivery date ~Nov 3–4**, not next-day). Reunite with main luggage in Hiroshima after the Matsuyama → Hiroshima ferry on **Nov 4**. Do not cycle Shimanami or manage the Matsuyama ferry transfer with large luggage.
 
 ## Fukuoka luggage handling
 
-By Nov 6, reunite with the main suitcase in Hiroshima. For the final Hiroshima → Miyajima → Fukuoka → Busan sequence, keep the luggage manageable enough to take on trains and the ferry without a complicated forwarding operation.
+On Nov 6, leave main luggage at the Hiroshima hotel or in station lockers while visiting Miyajima in the morning. Pick it up before taking the shinkansen to Fukuoka.
 
-**Key principle:** the trip should never require carrying the full suitcase through the Nakasendo walk or onto the Shimanami cycling section.
+No separate forwarding to Fukuoka is necessary unless you want the Miyajima morning to be completely bag-free and your hotel/forwarding timing makes that convenient.

@@ -1,3 +1,5 @@
+# Kyoto and Uji
+
 ## Day 14 — Oct 14 — Kanazawa → Kyoto
 
 **Sleep:** Kyoto  

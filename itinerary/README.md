@@ -89,6 +89,10 @@ The itinerary is split into small Markdown files so individual sections can be e
 
 - [Day 38 — Nov 7 — Fukuoka → Busan ferry day](days/day-38.md)
 
+## Planning notes
+
+- [Kyoto and Uji planning notes](sections/kyoto-planning.md)
+
 ## Appendices
 
 - [Condensed travel and transport spine](appendices/transport-spine.md)

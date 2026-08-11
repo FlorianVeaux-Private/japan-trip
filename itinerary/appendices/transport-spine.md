@@ -6,33 +6,27 @@ This section summarizes every major move between bases.
 | ----: | :---- | :---- | :---- | :---- |
 | 5 | Tokyo → Nikko | Tobu Limited Express (Spacia X / Kegon) | Easy/moderate | ~1h50 direct; reserve seats. Slower routes take longer. |
 | 6 | Nikko town → Okunikko → Nikko/Lake Chuzenji | Local bus | Moderate | Autumn buses can be busy; start early. |
-| 7 | Nikko → Tokyo | Tobu or JR train | Easy/moderate | Reset day; late-morning departure is fine. |
-| 8 | Tokyo → Nagoya → Nakatsugawa → Magome | Shinkansen + Shinano + bus | Moderate | Early start; arrive Magome around late morning. |
-| 9 | Magome → Tsumago → Nagiso → Nakatsugawa → Magome | Walk + bus + JR + bus | Moderate | ~8km walk; leave Tsumago with enough margin for the return connections. |
-| 10 | Nakatsugawa → Nagoya → Takayama | JR + Hida Limited Express | Moderate | ~07:52 regular/rapid to Nagoya, then 09:39 Hida 5 → 12:14 Takayama. |
-| 12 | Takayama → Kanazawa | Bus | Easy/moderate | Direct highway bus; reserve if possible. |
-| 14 | Kanazawa → Kyoto | Thunderbird / Hokuriku Shinkansen connection depending on 2026 timetable | Moderate | Verify exact 2026 service once tickets open. |
-| 16 | Kyoto → Uji | JR Nara Line | Easy | Short regional trip; no need to over-plan. |
-| 21 | Kyoto → Nara | JR or Kintetsu | Easy | Short transfer; overnight in Nara. |
-| 22 | Nara → Koyasan | JR/Kintetsu + Nankai + cable/bus | Moderate | Multi-leg transfer; start around 09:00. |
-| 23 | Koyasan → Kii-Tanabe | Bus + train/bus depending on service | Moderate | Repositioning day before pilgrimage. |
-| 24 | Kii-Tanabe → Takijiri-oji → Chikatsuyu/Tsugizakura | Bus + walk | Moderate | Reserve/confirm bus timing; pilgrimage day. |
-| 25 | Chikatsuyu/Tsugizakura → Hongu → Yunomine/Kawayu | Walk + local bus | Hard | Full stage is long; use the shorter fallback if needed. |
-| 26 | Hongu/Yunomine → Shingu → Kii-Katsuura | Bus + JR | Moderate | Hayatama visit en route. |
-| 27 | Kii-Katsuura → Nachi → Kii-Katsuura | Bus + walk | Moderate | Daimon-zaka + Nachi complex. |
-| 28 | Kii-Katsuura → Osaka | JR Kuroshio | Moderate | Long but straightforward intercity transfer. |
-| 29 | Osaka → Himeji → Osaka | JR | Easy | Day trip. |
-| 31 | Osaka → Kinosaki Onsen | JR Limited Express Kounotori | Easy/moderate | Direct; reserve seats. |
-| 32 | Kinosaki → Onomichi | JR via Himeji / Okayama | Moderate | Logistics day; protect the morning connection. |
-| 33 | Onomichi → Setoda / Ikuchijima | Bike | Moderate | Cycling day 1; luggage handled separately. |
-| 34 | Setoda → Imabari → Matsuyama | Bike + local rail/bus | Moderate/hard | Main cycling day; recovery night in Matsuyama. |
-| 35 | Matsuyama → Hiroshima | Matsuyama Kanko Super Jet | Easy/moderate | Midday ferry; scenic and avoids a long land route. |
-| 37 | Miyajima → Hiroshima → Fukuoka | JR + ferry/local transit | Moderate | Leave Miyajima in the morning. |
-| 38 | Fukuoka/Hakata → Busan | Camellia ferry | Easy/moderate | Daytime sailing; arrive early for check-in. |
+| 7 | Nikko → Tokyo | Tobu or JR train | Easy/moderate | Reset night before Kiso. |
+| 8 | Tokyo → Nakatsugawa → Magome (afternoon) | Shinkansen + Shinano Limited Express + local bus | Moderate | Arrive Nakatsugawa ~10:48. Bus to Magome ~11:15. Two nights in Magome. |
+| 9 | Magome → Tsumago → Nagiso → Nakatsugawa → Magome | Walk + bus + train + bus | Active | Walk 8km Magome→Tsumago. Return via Nagiso station; use a comfortable connection rather than relying on the tight 16:10→16:26 connection. |
+| 10 | Kiso Valley → Takayama | JR regular/rapid to Nagoya + Hida Limited Express | Moderate | Depart Nakatsugawa ~07:52, arrive Nagoya ~09:08, take Hida 5 at ~09:39, arrive Takayama ~12:14. Afternoon catches Hachiman Matsuri Day 2 (front-loaded to Oct 9). |
+| 12 | Takayama → Kanazawa (direct) | Express highway bus (~2h15, reserve) or Hida LEX to Toyama + Hokuriku Shinkansen | Moderate | **Shirakawa-go dropped.** Short morning transfer → midday arrival, more Kanazawa time. |
+| 14 | Kanazawa → Kyoto | Hokuriku Shinkansen + Thunderbird via Tsuruga | Easy/moderate | Roughly 2–2.5 hours depending on connections. |
+| 17 | Kyoto → Uji → Kyoto | JR or Keihan local train | Easy | About 20–40 minutes each way. |
+| 21 | Kyoto → Nara | JR or Kintetsu train | Easy | About 35–50 minutes; Kintetsu is convenient for Nara Park. |
+| 22 | Nara/Osaka area → Koyasan | Train + cable car + bus | Moderate | Multi-leg trip via Osaka/Namba and Nankai Railway. |
+| 23 | Koyasan → Kii-Tanabe | Bus | Moderate | Repositioning day; no hiking. |
+| 24 | Kii-Tanabe → Takijiri-oji → Chikatsuyu / Tsugizakura area | Local bus + hiking | Active | First real Kumano walking day. |
+| 25 | Chikatsuyu / Tsugizakura area → Hongu → Yunomine | Hiking + short local transfer if needed | Active/hard | Main pilgrimage day; reach Hongu mostly on foot, then onsen night. |
+| 26 | Yunomine / Hongu → Shingu / Hayatama Taisha → Kii-Katsuura | Local bus + train/bus | Moderate | Focused Hayatama stop; do not include Nachi today by default. |
+| 27 | Kii-Katsuura → Daimon-zaka / Nachi → Kii-Katsuura | Local bus + walking | Moderate | Dedicated Nachi finale; second night in Kii-Katsuura. |
+| 28 | Kii-Katsuura → Osaka | JR limited express | Hard/moderate | Long but straightforward exit; no ambitious sightseeing. |
+| 29 | Osaka → Himeji → Osaka | Shinkansen or JR special rapid | Easy | 30 min by shinkansen, around 1 hour by special rapid. |
+| 31 | Osaka → Kinosaki Onsen | JR limited express Kounotori | Moderate | ~2h45 (some Kounotori terminate at Fukuchiyama — pick a through service). Forward main luggage to the Hiroshima hotel before leaving Osaka. |
+| 32 | Kinosaki Onsen → Onomichi | Hamakaze LEX to Himeji + Sanyo Shinkansen to Fukuyama + local JR to Onomichi | Hard/moderate | Fast route ~3–3.5h **if you catch the morning Hamakaze (~08:58)** — only ~2 southbound/day. Target regular Onomichi Station, not Shin-Onomichi. |
+| 33 | Onomichi → Setoda/Ikuchijima | Ferry + bike (~30–35 km) | Active | First half of Shimanami. |
+| 34 | Setoda → Imabari → Matsuyama | Bike (~35–40 km) + Imabari→Matsuyama JR LEX (~40 min) | Active | Culture Day. Allow ~60–90 min terminal-to-Matsuyama incl. bike drop. Sleep in central Matsuyama; no Hiroshima ferry tonight. |
+| 35 | Matsuyama → Hiroshima | Iyotetsu to Takahama port + Super Jet ferry (~70 min) | Moderate | Matsuyama Castle in the morning, then ~75–90 min door-to-boat for a late-morning/midday Super Jet. |
+| 37 | Hiroshima → Miyajima → Hiroshima → Fukuoka | Train + ferry + train + shinkansen | Moderate/hard | Early Miyajima visit, then continue west to Fukuoka for the afternoon/evening. Do not return to Osaka. |
+| 38 | Fukuoka / Hakata → Busan | New Camellia Line ferry, daytime ~10:30 (~5.5–6h) | Moderate | Fixed Nov 7 constraint. Beetle hydrofoil withdrawn — use Camellia Line. Be at terminal ~08:30–09:00; verify 2026 schedule/baggage. |
 
-## Key transport principles
-
-- Reserve fixed-seat limited expresses and festival-period services early.
-- Treat rural bus connections as schedule-dependent, especially in Nikko, Kiso and Kumano.
-- Keep luggage forwarding aligned with the day-by-day sleep locations rather than generic regional bases.
-- Re-check 2026 timetables when the relevant booking windows open; older timetable examples are planning proxies, not guarantees.

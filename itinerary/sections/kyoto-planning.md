@@ -1,5 +1,3 @@
-# Kyoto and Uji
-
 > ### ⚠️ Book these Kyoto experiences well ahead (peak autumn)
 
 > The 5 open Kyoto base days are fine as placeholders, but several first-timer highlights are reservation-gated and can't be arranged on the day:  

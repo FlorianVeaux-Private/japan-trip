@@ -9,15 +9,15 @@ This is the one full Takayama day, so keep it focused.
 **Suggested plan:**
 
 - Miyagawa Morning Market  
-  
+    
 - Sanmachi old merchant district  
-  
+    
 - Takayama Jinya  
-  
+    
 - Sake breweries  
-  
+    
 - Craft and woodwork shops  
-  
+    
 - Hida beef lunch or dinner
 
 **Why 2 nights is enough here:**  

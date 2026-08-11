@@ -30,3 +30,9 @@ This section summarizes every major move between bases.
 | 37 | Hiroshima → Miyajima → Hiroshima → Fukuoka | Train + ferry + train + shinkansen | Moderate/hard | Early Miyajima visit, then continue west to Fukuoka for the afternoon/evening. Do not return to Osaka. |
 | 38 | Fukuoka / Hakata → Busan | New Camellia Line ferry, daytime ~10:30 (~5.5–6h) | Moderate | Fixed Nov 7 constraint. Beetle hydrofoil withdrawn — use Camellia Line. Be at terminal ~08:30–09:00; verify 2026 schedule/baggage. |
 
+## Key transport principles
+
+- Reserve fixed-seat limited expresses and festival-period services early.
+- Treat rural bus connections as schedule-dependent, especially in Nikko, Kiso and Kumano.
+- Keep luggage forwarding aligned with the day-by-day sleep locations rather than generic regional bases.
+- Re-check 2026 timetables when the relevant booking windows open; older timetable examples are planning proxies, not guarantees.

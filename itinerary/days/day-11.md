@@ -2,15 +2,18 @@
 
 **Sleep:** Takayama
 
-### Plan
+This is the one full Takayama day, so keep it focused.
 
-Full day for Takayama after the festival.
+**Open option (TBD):** an Okuhida onsen half-day — e.g. Hirayu-no-mori ([https://www.hirayunomori.co.jp/onsen/](https://www.hirayunomori.co.jp/onsen/)), ~1h by bus from Takayama. If added it eats into this full Takayama day, so decide based on how much onsen you'll already have later in the trip.
+
+**Suggested plan:**
 
 - Miyagawa Morning Market  
-- Sanmachi Suji old town  
+- Sanmachi old merchant district  
 - Takayama Jinya  
-- Hida Folk Village if energy allows  
-- Sake breweries / tasting  
-- Hida beef dinner
+- Sake breweries  
+- Craft and woodwork shops  
+- Hida beef lunch or dinner
 
-Keep this day flexible. The festival may make the town busier than usual, and there is no need to force every sight.
+**Why 2 nights is enough here:**  
+Takayama is excellent, but the Kiso Valley post towns already cover the "traditional mountain town / preserved architecture" register. Two nights — a half-day festival arrival on Day 10 plus one full day here — keeps it meaningful without overdoing it.

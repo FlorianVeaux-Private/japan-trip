@@ -42,4 +42,3 @@ Use Shinjuku as the main zone for the day.
 ### Notes
 
 Do not plan teamLab, Akihabara, Kabuki, or a major dinner reservation on arrival day. Jet lag may hit later than expected.
-

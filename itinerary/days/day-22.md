@@ -1,6 +1,7 @@
 ## Day 22 — Oct 22 — Nara / Osaka area → Koyasan
 
 **Sleep:** Koyasan  
+**Reservation:** ⚠️ Pending — new shukubo booking required for Oct 22–23. The previous Daien-in reservation was for Sep 22–23 and does not cover the itinerary. [reservation ledger](../reservations.md)  
 **Lodging type:** shukubo temple lodging.
 
 ### Travel: Nara to Koyasan

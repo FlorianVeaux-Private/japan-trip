@@ -1,6 +1,7 @@
 ## Day 26 — Oct 26 — Yunomine / Hongu → Shingu / Kumano Hayatama Taisha → Kii-Katsuura
 
-**Sleep:** Kii-Katsuura (night 1 of 2)  
+**Sleep:** Hotel Nagisaya (night 1 of 2)  
+**Reservation:** Confirmed · Oct 26–28 · [reservation ledger](../reservations.md)  
 **Lodging type:** seaside hotel, onsen hotel, or practical station-area hotel.
 
 ### Purpose

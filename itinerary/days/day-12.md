@@ -1,6 +1,7 @@
 ## Day 12 — Oct 12 — Takayama → Kanazawa (direct)
 
-**Sleep:** Kanazawa  
+**Sleep:** Hotel Nikko Kanazawa  
+**Reservation:** Confirmed · Oct 12–14 · [reservation ledger](../reservations.md)  
 **Lodging type:** comfortable city hotel, machiya-style stay, or refined inn.
 
 ### Travel: Takayama to Kanazawa (direct)

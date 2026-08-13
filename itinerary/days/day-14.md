@@ -1,8 +1,7 @@
-# Kyoto and Uji
-
 ## Day 14 — Oct 14 — Kanazawa → Kyoto
 
-**Sleep:** Kyoto  
+**Sleep:** Waka Kyoto Kawaramachi Hotel  
+**Reservation:** Confirmed · Oct 14–21 · [reservation ledger](../reservations.md)  
 **Lodging type:** comfortable base for 7 nights.
 
 ### Travel: Kanazawa to Kyoto

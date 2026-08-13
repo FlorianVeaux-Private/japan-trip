@@ -1,6 +1,7 @@
 ## Day 10 — Oct 10 — Kiso Valley → Takayama (Hachiman Matsuri Day 2\)
 
-**Sleep:** Takayama  
+**Sleep:** Hotel Kuretakeso Takayama Ekimae  
+**Reservation:** Confirmed · Oct 10–12 · [reservation ledger](../reservations.md)  
 **Lodging type:** machiya-style hotel, comfortable small hotel, or ryokan-style stay.
 
 ### Travel: Kiso Valley to Takayama

@@ -1,6 +1,7 @@
 ## Day 1 — Oct 1 — Arrive in Tokyo / Shinjuku soft landing
 
-**Sleep:** Tokyo  
+**Sleep:** APA Hotel Ueno Okachimachi Ekimae Minami  
+**Reservation:** Confirmed · Oct 1–5 · [reservation ledger](../reservations.md)  
 **Lodging type:** comfortable city hotel in a practical area.
 
 Arrive in Tokyo around **8:00am**. Keep this as an acclimatization day, but not an empty one. The goal is to get oriented, spend time outside, eat something easy, and avoid making the first night miserable.

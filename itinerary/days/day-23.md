@@ -4,7 +4,8 @@ Bus booking performed on [https://secure.j-bus.co.jp/](https://secure.j-bus.co.j
 Need to login with [florian@delille-veaux.fr](mailto:florian@delille-veaux.fr) (1password)  
 Koyasan Station (09:36) - Kii-Tanabe Station (13:05)
 
-**Sleep:** Kii-Tanabe  
+**Sleep:** Comfort Hotel Kii Tanabe  
+**Reservation:** Confirmed · Oct 23–24 · [reservation ledger](../reservations.md)  
 **Lodging type:** practical hotel or simple guesthouse near the station.
 
 ### Travel: Koyasan to Kii-Tanabe

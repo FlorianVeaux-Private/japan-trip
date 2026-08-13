@@ -1,6 +1,7 @@
 ## Day 24 — Oct 24 — Kii-Tanabe → Takijiri-oji → Chikatsuyu / Tsugizakura area
 
 **Sleep:** 民宿 和合 Minshuku WAGO — **booked via booking.com**  
+**Reservation:** Confirmed · Oct 24–25 · [reservation ledger](../reservations.md)  
 **Lodging type:** minshuku, guesthouse, small ryokan, or walkers’ lodging.
 
 ### Travel: Kii-Tanabe to Takijiri-oji

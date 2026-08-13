@@ -1,9 +1,8 @@
 ## Day 21 — Oct 21 — Kyoto → Nara overnight
 
-TODO: Change booking for [https://reserve.489ban.net/client/asukasou/0/plan/search?date=2026%2F10%2F21\&numberOfNights=1\&roomCount=1\&guests%5B11904%5D%5Badult%5D=1\&guests%5B11905%5D%5Badult%5D=1](https://reserve.489ban.net/client/asukasou/0/plan/search?date=2026%2F10%2F21&numberOfNights=1&roomCount=1&guests%5B11904%5D%5Badult%5D=1&guests%5B11905%5D%5Badult%5D=1)
-
-**Sleep:** Nara  
-**Lodging type:** historic hotel, ryokan-style inn, or comfortable small hotel near Nara Park or Naramachi.
+**Sleep:** Ryokan Asukasou at the entrance of Nara Park  
+**Reservation:** Confirmed · Oct 21–22 · [reservation ledger](../reservations.md)  
+**Lodging type:** ryokan.
 
 ### Travel: Kyoto to Nara
 

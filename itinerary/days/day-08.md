@@ -1,6 +1,7 @@
 ## Day 8 — Oct 8 — Tokyo → Nakatsugawa / Kiso Valley
 
 **Sleep:** Magome - さかのみち-sakanomichi (two nights)  
+**Reservation:** Confirmed · Oct 8–10 · [reservation ledger](../reservations.md)  
 **Lodging type:** small traditional guesthouse / minshuku in the post town.
 
 **Accommodation note:** The booked stay is in **Magome**, not Nakatsugawa. This is preferable for the Nakasendo module because it removes the need to travel back to Nakatsugawa after exploring Magome on arrival day.

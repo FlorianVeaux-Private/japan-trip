@@ -93,6 +93,10 @@ The itinerary is split into small Markdown files so individual sections can be e
 
 - [Kyoto and Uji planning notes](sections/kyoto-planning.md)
 
+## Reservations
+
+- [Current accommodation reservation ledger](reservations.md)
+
 ## Appendices
 
 - [Condensed travel and transport spine](appendices/transport-spine.md)

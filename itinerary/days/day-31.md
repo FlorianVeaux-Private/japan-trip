@@ -1,9 +1,7 @@
 ## Day 31 — Oct 31 — Osaka → Kinosaki Onsen
 
-TODO: Replace Takamatsu booking with Kinosaki ryokan booking. Candidate link already noted:  
-[https://reserve.489ban.net/client/shogetsu/0/plan/search?date=2026%2F10%2F31\&numberOfNights=1\&roomCount=1\&guests%5B22112%5D%5Badult%5D=1\&guests%5B22113%5D%5Badult%5D=1&\_gl=1\*11zwdy\*\_ga\*MTc0MzYxOTk5NC4xNzgzMzMwODU0\*\_ga\_BYMVRMR907\*czE3ODMzMzA4NTQkbzEkZzAkdDE3ODMzMzA4NTQkajYwJGwwJGgw](https://reserve.489ban.net/client/shogetsu/0/plan/search?date=2026%2F10%2F31&numberOfNights=1&roomCount=1&guests%5B22112%5D%5Badult%5D=1&guests%5B22113%5D%5Badult%5D=1&_gl=1*11zwdy*_ga*MTc0MzYxOTk5NC4xNzgzMzMwODU0*_ga_BYMVRMR907*czE3ODMzMzA4NTQkbzEkZzAkdDE3ODMzMzA4NTQkajYwJGwwJGgw)
-
-**Sleep:** Kinosaki Onsen  
+**Sleep:** つばき / Kinosaki Onsen Ryokan Tsubakino  
+**Reservation:** Confirmed · Oct 31–Nov 1 · [reservation ledger](../reservations.md)  
 **Lodging type:** ryokan or ryokan-style inn, ideally including dinner and breakfast.
 
 ### Travel: Osaka to Kinosaki Onsen

@@ -15,23 +15,18 @@ Book these early:
 
 ## This week — lottery / fixed / high sell-out risk
 
-- [ ] **Nintendo Museum lottery (Uji, Fri Oct 16)** — lottery-only, applied ~3 months ahead; the October window is open now and closing. Apply today. Fallback: leftover-ticket round ~2 months out (August).  
-- [ ] **Fukuoka/Hakata → Busan ferry (Nov 7)** — New Camellia Line, daytime ~10:30 departure. Fixed trip endpoint; book as soon as the Nov 2026 calendar opens. Needs passport details.  
-- [ ] **Takayama festival lodging (Oct 10–11)** — festival week (Fri–Sat), tightest lodging of the trip.  
-- [ ] **Koyasan shukubo (Oct 22–23)** — new accommodation booking required  
-- [ ] **Kinosaki ryokan (Oct 31)** — the Shōgetsu candidate; Halloween Saturday, high demand  
-- [ ] **Kyoto hotel (7 nights, Oct 14–20)** — peak autumn  
-- [ ] **Setoda / Ikuchijima island lodging (Nov 2)** + **Shimanami bike rental** (confirm one-way Onomichi→Imabari drop is allowed for your bike type)  
-- [ ] **Matsuyama lodging (Nov 3, Culture Day)**  
-- [ ] **Remaining hotels:** Tokyo (Oct 7), Osaka (Oct 28–30), Onomichi (Nov 1), Hiroshima (Nov 4–5), Fukuoka (Nov 6)  
-- [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first  
-- [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa)
+- [ ] **Nintendo Museum lottery (Uji, Fri Oct 16)** — October lottery window is open and closing; apply now. Fallback: leftover-ticket round around 2 months out.
+- [ ] **Koyasan shukubo (Oct 22–23)** — replacement accommodation needed; current stay is still pending.
+- [ ] **Setoda / Ikuchijima island lodging (Nov 2)** + **Shimanami bike rental** — confirm one-way Onomichi→Imabari drop-off is allowed for the chosen bike type.
+- [ ] **Matsuyama lodging (Nov 3)** — Culture Day; book early.
+- [ ] **Remaining hotels:** Tokyo (Oct 7), Osaka (Oct 28–30), Onomichi (Nov 1), Hiroshima (Nov 4–5), Fukuoka (Nov 6).
+- [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
+- [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa).
 
-**Accommodation bookings:** See [`../reservations.md`](../reservations.md) for the complete confirmed-reservation ledger.
+### Waiting for booking window
 
-**Important:** Koyasan remains outstanding. The existing Daien-in reservation is for Sep 22–23 rather than the required Oct 22–23.
-
-**Already booked transport:** Koyasan → Kii-Tanabe bus (Oct 23).
+- [ ] **Fukuoka/Hakata → Busan ferry (Nov 7)** — book when the Nov 2026 calendar opens.
+- [ ] **Takayama → Kanazawa direct bus (Oct 12)** — booking window expected around Sep 12.
 
 ---
 

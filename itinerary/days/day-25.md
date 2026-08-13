@@ -1,6 +1,7 @@
 ## Day 25 — Oct 25 — Chikatsuyu / Tsugizakura area → Kumano Hongu Taisha → Yunomine or Kawayu Onsen
 
 **Sleep:** J-Hoppers Kumano Yunomine Guesthouse, Yunomine Onsen — **booked via booking.com**  
+**Reservation:** Confirmed · Oct 25–26 · [reservation ledger](../reservations.md)  
 **Lodging type:** onsen ryokan, minshuku, or walkers’ lodging.
 
 ### Main hike: Chikatsuyu / Tsugizakura area → Hongu

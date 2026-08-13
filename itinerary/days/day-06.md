@@ -1,6 +1,7 @@
 ## Day 6 — Oct 6 — Okunikko nature day
 
-**Sleep:** [Nikko guesthouse Sumica](https://secure.booking.com/confirmation.fr.html?label=New_English_EN_FR_21457884505-T0t*edlXm_oGkIMqMNUhEAS217291026622%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=ebb1bb1f139cbba2e9390ebaa379fefa&aid=318615&auth_key=HdqPZn8Jn4op2Taj&source=mytrips)
+**Sleep:** Nikko Guesthouse Sumica  
+**Reservation:** Confirmed · Oct 5–7 · [reservation ledger](../reservations.md)
 
 ### Travel: Nikko town to Okunikko
 

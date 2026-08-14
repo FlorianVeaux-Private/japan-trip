@@ -2,30 +2,25 @@
 
 Book these early:
 
-1. **Koyasan shukubo for Oct 22–23** — current accommodation is pending; the previous Daien-in reservation was for Sep 22–23 and does not cover the itinerary.  
-2. Takayama → Kanazawa **direct** express highway bus (Nohi/Hokutetsu, reserve early via nouhibus.co.jp or the Nohi bus centre); the train via Toyama is the reservation-free fallback  
-3. Shimanami bike rental (confirm one-way Onomichi→Imabari drop-off is allowed for your bike type) and Setoda/Ikuchijima lodging  
-4. Matsuyama lodging for Nov 3 — Culture Day, so book early  
-5. Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4  
-6. Hiroshima hotel (Nov 4–5)  
-7. Fukuoka hotel (Nov 6), ideally near Hakata or Tenjin  
-8. Hakata / Fukuoka → Busan ferry for Nov 7 — **New Camellia Line** (the Beetle hydrofoil is withdrawn); daytime ~10:30 departure. Verify terminal, check-in deadline, baggage rules and 2026 schedule as soon as bookings open  
-9. Remaining Tokyo, Osaka and Onomichi hotels, plus Setoda/Ikuchijima  
-10. Verify Miyajima ropeway operational status before departure
+1. Takayama → Kanazawa **direct** express highway bus (Nohi/Hokutetsu, reserve early via nouhibus.co.jp or the Nohi bus centre); the train via Toyama is the reservation-free fallback  
+2. Shimanami bike rental (confirm one-way Onomichi→Imabari drop-off is allowed for your bike type) and Setoda/Ikuchijima lodging  
+3. Matsuyama lodging for Nov 3 — Culture Day, so book early  
+4. Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4  
+5. Hiroshima hotel (Nov 4–5)  
+6. Remaining Tokyo, Osaka and Onomichi hotels, plus Setoda/Ikuchijima  
+7. Verify Miyajima ropeway operational status before departure
 
 ## This week — lottery / fixed / high sell-out risk
 
 - [ ] **Nintendo Museum lottery (Uji, Fri Oct 16)** — October lottery window is open and closing; apply now. Fallback: leftover-ticket round around 2 months out.
-- [ ] **Koyasan shukubo (Oct 22–23)** — replacement accommodation needed; current stay is still pending.
 - [ ] **Setoda / Ikuchijima island lodging (Nov 2)** + **Shimanami bike rental** — confirm one-way Onomichi→Imabari drop-off is allowed for the chosen bike type.
 - [ ] **Matsuyama lodging (Nov 3)** — Culture Day; book early.
-- [ ] **Remaining hotels:** Tokyo (Oct 7), Osaka (Oct 28–30), Onomichi (Nov 1), Hiroshima (Nov 4–5), Fukuoka (Nov 6).
+- [ ] **Remaining hotels:** Tokyo (Oct 7), Osaka (Oct 28–30), Onomichi (Nov 1), Hiroshima (Nov 4–6).
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa).
 
 ### Waiting for booking window
 
-- [ ] **Fukuoka/Hakata → Busan ferry (Nov 7)** — book when the Nov 2026 calendar opens.
 - [ ] **Takayama → Kanazawa direct bus (Oct 12)** — booking window expected around Sep 12.
 
 ---
@@ -57,4 +52,4 @@ Rail seats can't be reserved until the 30-day window opens. Prioritize the scarc
 - [ ] **Kumano luggage shuttle (Days 24–25)** — if wanted, book **≥20 days ahead** via Kumano Travel; only works for accommodations booked through their system. Otherwise plan to carry a daypack.  
 - [ ] **Yamato forwarding Osaka → Hiroshima** — can only create the label once the Hiroshima hotel is booked; set a scheduled delivery date ~Nov 3–4.  
 - [ ] **Verify Miyajima ropeway operating status** before the trip.  
-- [ ] **Check Nov 6 tide tables** for Miyajima (high tide = floating torii; low tide = walk to the gate).
+- [ ] **Check Nov 5 tide tables** for Miyajima (high tide = floating torii; low tide = walk to the gate).

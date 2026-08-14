@@ -1,7 +1,7 @@
 ## Day 22 — Oct 22 — Nara / Osaka area → Koyasan
 
-**Sleep:** Koyasan  
-**Reservation:** ⚠️ Pending — new shukubo booking required for Oct 22–23. The previous Daien-in reservation was for Sep 22–23 and does not cover the itinerary. [reservation ledger](../reservations.md)  
+**Sleep:** Sainan-in Temple, Koyasan  
+**Reservation:** Confirmed · Oct 22–23 · Japanese-style room, shared bath/toilet, half board · ¥38,000 for 2 adults · [reservation ledger](../reservations.md)  
 **Lodging type:** shukubo temple lodging.
 
 ### Travel: Nara to Koyasan
@@ -23,7 +23,7 @@ Total: **~3h from Nara.** Route: Kintetsu Nara → Osaka-Namba, walk to Nankai N
 - Kongobuji Temple  
 - Garan temple complex  
 - Okunoin cemetery walk at dusk (~5:30pm, lanterns lit)  
-- Shojin ryori dinner at temple lodging  
+- Shojin ryori dinner at **Sainan-in**  
 - Temple stay overnight  
 - Temple morning prayer at ~6:00am  
 - Temple breakfast (~7:00am)

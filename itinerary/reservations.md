@@ -16,21 +16,14 @@ Private confirmation URLs, authentication tokens, reservation numbers, payment d
 | Oct 12–14 | Kanazawa | Hotel Nikko Kanazawa | €215 | Days 12–13 |
 | Oct 14–21 | Kyoto | Waka Kyoto Kawaramachi Hotel | €799 | Days 14–20 |
 | Oct 21–22 | Nara | Ryokan Asukasou at the entrance of Nara Park | €232 | Day 21 |
+| **Oct 22–23** | **Koyasan** | **Sainan-in Temple** | **¥38,000** | **Day 22** |
 | Oct 23–24 | Kii-Tanabe | Comfort Hotel Kii Tanabe | €59 | Day 23 |
 | Oct 24–25 | Kumano | Minshuku WAGO | €97 | Day 24 |
 | Oct 25–26 | Yunomine Onsen | J-Hoppers Kumano Yunomine Guesthouse | €72 | Day 25 |
 | Oct 26–28 | Kii-Katsuura | Hotel Nagisaya | €169 | Days 26–27 |
 | Oct 31–Nov 1 | Kinosaki Onsen | つばき / Kinosaki Onsen Ryokan Tsubakino | €304 | Day 31 |
 
-**Confirmed accommodation total:** €3,162, including the Sep 30 pre-trip night.
-
-## Pending accommodation
-
-| Dates | Location | Status |
-| :---- | :---- | :---- |
-| Oct 22–23 | Koyasan | **Pending — new shukubo booking required** |
-
-The previous Daien-in Temple reservation was confirmed for **Sep 22–23**, not Oct 22–23, so it does not cover the itinerary and is not counted above.
+**Confirmed accommodation total:** €3,162 plus ¥38,000 for Koyasan, including the Sep 30 pre-trip night.
 
 ## Remaining accommodation to book
 
@@ -40,10 +33,10 @@ The previous Daien-in Temple reservation was confirmed for **Sep 22–23**, not 
 - Setoda / Ikuchijima — Nov 2–3
 - Matsuyama — Nov 3–4
 - Hiroshima — Nov 4–6
-- Fukuoka — Nov 6–7
 
 ## Notes
 
 - This ledger is the source of truth for accommodation bookings.
 - Day files should contain only a short reservation reference; private confirmation URLs should not be copied into the itinerary.
+- Sainan-in is confirmed for Oct 22–23, 2026: 2 adults, 1 Japanese-style room with shared bath/toilet, half board, ¥19,000/person (¥38,000 total).
 - Transportation reservations are tracked separately in `appendices/booking-priorities.md`.

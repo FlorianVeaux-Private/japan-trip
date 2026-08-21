@@ -6,9 +6,10 @@ Book these early:
 2. Shimanami bike rental (confirm one-way Onomichi→Imabari drop-off is allowed for your bike type) and Setoda/Ikuchijima lodging  
 3. Matsuyama lodging for Nov 3 — Culture Day, so book early  
 4. Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4  
-5. Hiroshima hotel (Nov 4–5)  
+5. Hiroshima hotel (Nov 4–6)  
 6. Remaining Tokyo, Osaka and Onomichi hotels, plus Setoda/Ikuchijima  
-7. Verify Miyajima ropeway operational status before departure
+7. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
+8. Verify Miyajima ropeway operational status before departure
 
 ## This week — lottery / fixed / high sell-out risk
 
@@ -16,6 +17,7 @@ Book these early:
 - [ ] **Setoda / Ikuchijima island lodging (Nov 2)** + **Shimanami bike rental** — confirm one-way Onomichi→Imabari drop-off is allowed for the chosen bike type.
 - [ ] **Matsuyama lodging (Nov 3)** — Culture Day; book early.
 - [ ] **Remaining hotels:** Tokyo (Oct 7), Osaka (Oct 28–30), Onomichi (Nov 1), Hiroshima (Nov 4–6).
+- [ ] **Hakata → Busan ferry (Nov 6)** — book the regular daytime New Camellia sailing and verify the exact 2026 departure/check-in details.
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa).
 
@@ -42,7 +44,7 @@ Rail seats can't be reserved until the 30-day window opens. Prioritize the scarc
 | **Oct 1** | Oct 1 | **Kōnotori** Osaka → Kinosaki (Oct 31) | Only ~6/day reach Kinosaki |
 | **Oct 2** | Oct 2 | **Hamakaze** Kinosaki → Himeji (Nov 1) | ⚠️ only ~2 southbound/day — Day 32 depends on it |
 | **Oct 5** | Oct 5 | Super Jet ferry Matsuyama → Hiroshima (Nov 4) | Book the specific sailing |
-| **Oct 7** | Oct 7 | Shinkansen Hiroshima → Hakata (Nov 6) | Reserve seat |
+| **Oct 7** | Oct 7 | Shinkansen Hiroshima → Hakata (Nov 6) | Reserve seat before ferry |
 
 ---
 

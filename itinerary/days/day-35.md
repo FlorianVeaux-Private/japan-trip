@@ -1,11 +1,11 @@
-## Day 35 — Nov 4 — Matsuyama → Hiroshima
+## Day 35 — Nov 4 — Matsuyama → Hiroshima / Peace Memorial
 
 **Sleep:** Hiroshima  
 **Lodging type:** comfortable city hotel near Peace Memorial Park or Hiroshima Station.
 
 ### Purpose
 
-This is a **half-morning in Matsuyama** — the castle before a midday ferry. It gives the city enough to feel intentional after Shimanami without over-investing.
+This is a half-morning in Matsuyama followed by the focused Hiroshima experience: **Peace Memorial Park, A-Bomb Dome and the Peace Memorial Museum**. Keep the evening light so Nov 5 can be devoted entirely to Miyajima.
 
 ### Suggested Matsuyama plan
 
@@ -27,8 +27,9 @@ Target a **late-morning or midday fast ferry** from Matsuyama toward Hiroshima �
 2. Transfer to Matsuyama Kanko Port (allow 75–90 min door-to-boat)  
 3. Super Jet ferry Matsuyama → Hiroshima Port (~70 min)  
 4. Local transport or taxi to the hotel  
-5. Light Hiroshima orientation, river walk, or simple dinner
+5. **Peace Memorial Park + A-Bomb Dome + Peace Memorial Museum** in the afternoon, with enough time to pause afterward  
+6. Simple Hiroshima-style okonomiyaki dinner
 
 ### Notes
 
-This day should not become another full sightseeing sprint. The key Matsuyama priorities are **a calm post-Shimanami night**, **Matsuyama Castle if timing works**, and **the Seto Inland Sea ferry crossing** — this is a half-morning in Matsuyama, not a full day.
+The Peace Museum is emotionally demanding. Do not stack another major Hiroshima sight on top. The purpose of the day is the core Hiroshima history experience; Miyajima gets its own full day tomorrow.

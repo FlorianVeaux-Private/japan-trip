@@ -3,20 +3,21 @@
 Book these early:
 
 1. Takayama → Kanazawa **direct** express highway bus (Nohi/Hokutetsu, reserve early via nouhibus.co.jp or the Nohi bus centre); the train via Toyama is the reservation-free fallback  
-2. Shimanami bike rental (confirm one-way Onomichi→Imabari drop-off is allowed for your bike type) and Setoda/Ikuchijima lodging  
+2. Shimanami bike rental — confirm one-way Onomichi→Imabari drop-off is allowed for your bike type  
 3. Matsuyama lodging for Nov 3 — Culture Day, so book early  
 4. Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4  
 5. Hiroshima hotel (Nov 4–6)  
-6. Remaining Tokyo, Osaka and Onomichi hotels, plus Setoda/Ikuchijima  
+6. Remaining Osaka and Onomichi hotels  
 7. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
 8. Verify Miyajima ropeway operational status before departure
 
 ## This week — lottery / fixed / high sell-out risk
 
-- [ ] **Nintendo Museum lottery (Uji, Fri Oct 16)** — October lottery window is open and closing; apply now. Fallback: leftover-ticket round around 2 months out.
-- [ ] **Setoda / Ikuchijima island lodging (Nov 2)** + **Shimanami bike rental** — confirm one-way Onomichi→Imabari drop-off is allowed for the chosen bike type.
+- [x] **Nintendo Museum (Uji, Mon Oct 19)** — confirmed for **16:00**.
+- [x] **Hakata-jima island lodging (Nov 2–3)** — Grandma's island Home Hakata / Matsusaki Ryokan confirmed.
+- [ ] **Shimanami bike rental** — confirm one-way Onomichi→Imabari drop-off is allowed for the chosen bike type.
 - [ ] **Matsuyama lodging (Nov 3)** — Culture Day; book early.
-- [ ] **Remaining hotels:** Tokyo (Oct 7), Osaka (Oct 28–30), Onomichi (Nov 1), Hiroshima (Nov 4–6).
+- [ ] **Remaining hotels:** Osaka (Oct 28–31), Onomichi (Nov 1–2), Hiroshima (Nov 4–6).
 - [ ] **Hakata → Busan ferry (Nov 6)** — book the regular daytime New Camellia sailing and verify the exact 2026 departure/check-in details.
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa).
@@ -33,7 +34,6 @@ Rail seats can't be reserved until the 30-day window opens. Prioritize the scarc
 
 | Set reminder | Book on/after | Leg | Why |
 | :---- | :---- | :---- | :---- |
-| **Aug 14** | Aug 14 | Saihōji (Kokedera) reservation | Opens 2 months before visit day (if wanted) |
 | **Sep 5** | Sep 5 | Tobu **Spacia X** → Nikko (Oct 5) | Popular, limited seats |
 | **Sep 8** | Sep 8 | Shinkansen + Shinano → Nakatsugawa (Oct 8) | Lock reserved seats |
 | **Sep 10** | Sep 10 | **Hida** LEX → Takayama (Oct 10) | Festival week — fills |

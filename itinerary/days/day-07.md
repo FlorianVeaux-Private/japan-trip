@@ -1,7 +1,8 @@
 ## Day 7 — Oct 7 — Nikko → Tokyo reset
 
-**Sleep:** Tokyo  
-**Lodging type:** practical hotel near a useful station.
+**Sleep:** Smile Hotel Nihombashi Mitsukoshimae  
+**Reservation:** Confirmed · Oct 7–8 · [reservation ledger](../reservations.md)  
+**Lodging type:** practical hotel in Nihombashi.
 
 ### Travel: Nikko to Tokyo
 

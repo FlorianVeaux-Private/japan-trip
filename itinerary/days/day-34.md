@@ -1,4 +1,4 @@
-## Day 34 — Nov 3 (Culture Day) — Shimanami Kaido cycling day 2: Setoda → Imabari → Matsuyama
+## Day 34 — Nov 3 (Culture Day) — Shimanami Kaido cycling day 2: Hakata-jima → Imabari → Matsuyama
 
 **Sleep:** Matsuyama  
 **Lodging type:** comfortable central Matsuyama hotel (near Matsuyama-shi / Okaido or the JR station).
@@ -11,21 +11,19 @@ National holiday = virtually no commercial trucks on the bridges, lighter traffi
 
 **Suggested route:**
 
-- Setoda / Ikuchijima → Omishima  
-- **Stop: Oyamazumi Shrine** on Omishima — the most important shrine in the Seto Inland Sea, dedicated to the god of mountains and sea. Its treasure house holds ~80% of Japan's nationally designated ancient armor. Allow 45–60 minutes.  
-- Omishima → Hakatajima → Oshima  
+- Hakata-jima → Oshima  
 - Oshima → Imabari via the Kurushima Kaikyo Bridge — one of the route's most dramatic crossings, with views of the famous tidal straits  
 - Drop bikes at Imabari terminal
 
-Approximately **35–40 km**.
+Approximately **25–30 km**. The shorter second day is intentional: after a longer Day 33, this leaves a more comfortable margin for the bike return and Matsuyama transfer.
 
 ### Travel: Imabari → Matsuyama
 
-After dropping bikes in Imabari, first get from the Sunrise Itoyama bike terminal to **Imabari Station** (~15–20 min by bus/taxi), then take the **JR Yosan Line limited express (Shiokaze / Ishizuchi) to Matsuyama, ~40 min**. Realistic terminal-to-Matsuyama is ~60–90 min including the bike drop and transfer; limited expresses aren't frequent, so check the departure before you finish the ride.
+After dropping bikes at the Imabari cycling terminal, first get to **Imabari Station** (~15–20 min by bus/taxi), then take the **JR Yosan Line limited express (Shiokaze / Ishizuchi) to Matsuyama, ~40 min**. Realistic terminal-to-Matsuyama is ~60–90 min including the bike drop and transfer; limited expresses aren't frequent, so check the departure before you finish the ride.
 
 ### Evening in Matsuyama
 
-This is a soft landing after the Shimanami ride, not a sightseeing sprint. The goal is simply to arrive, recover and eat well — expect low energy after 35–40 km plus the transfer, so don't force any activity on arrival.
+This is a soft landing after the Shimanami ride, not a sightseeing sprint. The goal is simply to arrive, recover and eat well — expect low energy after the ride plus the transfer, so don't force any activity on arrival.
 
 **Suggested flow:**
 

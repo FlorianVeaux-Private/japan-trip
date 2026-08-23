@@ -13,13 +13,14 @@ National holiday = virtually no commercial trucks on the bridges, lighter traffi
 
 - Hakata-jima → Oshima  
 - Oshima → Imabari via the Kurushima Kaikyo Bridge — one of the route's most dramatic crossings, with views of the famous tidal straits  
-- Drop bikes at Imabari terminal
+- Continue approximately **6 km from Sunrise Itoyama to Imabari Station**  
+- Return bikes at the **i.i.imabari! Cycle Station beside JR Imabari Station**
 
-Approximately **25–30 km**. The shorter second day is intentional: after a longer Day 33, this leaves a more comfortable margin for the bike return and Matsuyama transfer.
+Approximately **30–35 km**. The shorter second day is intentional: after a longer Day 33, this leaves a more comfortable margin for the bike return and Matsuyama transfer. The final ~6 km to Imabari Station is ordinary city/public-road riding rather than another scenic Shimanami section, but it is straightforward and avoids a separate bus/taxi transfer.
 
 ### Travel: Imabari → Matsuyama
 
-After dropping bikes at the Imabari cycling terminal, first get to **Imabari Station** (~15–20 min by bus/taxi), then take the **JR Yosan Line limited express (Shiokaze / Ishizuchi) to Matsuyama, ~40 min**. Realistic terminal-to-Matsuyama is ~60–90 min including the bike drop and transfer; limited expresses aren't frequent, so check the departure before you finish the ride.
+After returning the bikes at **i.i.imabari! Cycle Station beside JR Imabari Station**, take the **JR Yosan Line limited express (Shiokaze / Ishizuchi) to Matsuyama, ~40 min**. The station-side bike return means there is no separate transfer from the cycling terminal; check the departure before finishing the ride and keep a reasonable buffer for the bike return.
 
 ### Evening in Matsuyama
 

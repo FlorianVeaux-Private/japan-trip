@@ -1,7 +1,8 @@
 ## Day 35 — Nov 4 — Matsuyama → Hiroshima / Peace Memorial
 
-**Sleep:** Hiroshima  
-**Lodging type:** comfortable city hotel near Peace Memorial Park or Hiroshima Station.
+**Sleep:** HOTEL MYSTAYS Hiroshima Peace Park  
+**Reservation:** Confirmed · Nov 4–6 · [reservation ledger](../reservations.md)  
+**Lodging type:** central city hotel near Peace Memorial Park.
 
 ### Purpose
 

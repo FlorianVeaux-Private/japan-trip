@@ -1,7 +1,8 @@
 ## Day 32 — Nov 1 — Kinosaki Onsen morning → Onomichi
 
-**Sleep:** Onomichi  
-**Lodging type:** small hotel or guesthouse near the port.
+**Sleep:** Lemonsea Onomichi  
+**Reservation:** Confirmed · Nov 1–2 · [reservation ledger](../reservations.md)  
+**Lodging type:** small hotel in Onomichi.
 
 ### Purpose
 

@@ -48,7 +48,7 @@ Rail seats can't be reserved until the 30-day window opens. Prioritize the scarc
 
 ## Admin — start now, don't let it slip
 
-- [ ] **K-ETA + passport for Korea** — arriving Busan by ferry. Verify whether a French passport needs K-ETA in late 2026 (temporary exemption ended Dec 2025, so it may be required again; apply ≥72h before). Confirm passport valid 6+ months past Nov 7.  
+- [ ] **Korea entry declaration + passport** — French passport holders are currently covered by the K-ETA temporary exemption through **Dec 31, 2026**. Re-check the official K-ETA site before departure in case the policy changes. The exemption means K-ETA is not required, although exempt travelers can still apply voluntarily to receive benefits such as skipping the arrival card. Confirm passport validity requirements before travel.  
 - [ ] **Kumano luggage shuttle (Days 24–25)** — if wanted, book **≥20 days ahead** via Kumano Travel; only works for accommodations booked through their system. Otherwise plan to carry a daypack.  
 - [ ] **Yamato forwarding Osaka → Hiroshima** — hotel is now booked; confirm the hotel will accept the advance shipment and prepare the scheduled delivery for ~Nov 3–4.  
 - [ ] **Verify Miyajima ropeway operating status** before the trip.  

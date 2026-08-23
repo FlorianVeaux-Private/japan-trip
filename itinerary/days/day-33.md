@@ -6,11 +6,11 @@
 
 ### Main activity: Shimanami Kaido day 1
 
-Pick up bikes at the Onomichi terminal early morning. The full Onomichi–Imabari cycling route is about **70 km**, but the new overnight split puts more distance on Day 33 and less on Day 34.
+Pick up bikes at the **Onomichi Station-front Rental Cycle** in the morning. **Confirmed rental: Shimanami Japan city bikes, with a front pannier/basket. Free helmets included.** The full Onomichi–Imabari cycling route is about **70 km**, but the new overnight split puts more distance on Day 33 and less on Day 34.
 
 ### Suggested route
 
-- Pick up bikes in Onomichi  
+- Pick up bikes at Onomichi Station-front Rental Cycle  
 - Ferry from Onomichi port → Mukaishima (short crossing)  
 - Ride Mukaishima → Innoshima → Ikuchijima → Omishima → Hakata-jima  
 - Stop for views, citrus, cafés, small detours  
@@ -23,3 +23,9 @@ Approximately **45–50 km**, depending on detours and exact route. This is the 
 ### Luggage
 
 Do not bike with large luggage. Main bags should already have been forwarded from Osaka to Hiroshima before leaving for Kinosaki. Carry only the small cycling/travel bag through Kinosaki, Onomichi, the Shimanami Kaido, and the Matsuyama night.
+
+The rental bikes have a **front pannier/basket**, so use it for the things we want readily accessible while riding: water, food/snacks, rain jacket, lights, phone/power bank and other small cycling essentials. No backpack should be necessary.
+
+### Rental details
+
+**Confirmed:** Shimanami Japan · Onomichi Station-front Rental Cycle · Nov 2, 2026. Reservation reference is kept in the booking email rather than the itinerary. Helmets are free.

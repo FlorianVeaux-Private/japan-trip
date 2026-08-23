@@ -3,19 +3,18 @@
 Book these early:
 
 1. Takayama → Kanazawa **direct** express highway bus (Nohi/Hokutetsu, reserve early via nouhibus.co.jp or the Nohi bus centre); the train via Toyama is the reservation-free fallback  
-2. Shimanami bike rental — confirm one-way Onomichi→Imabari drop-off is allowed for your bike type  
-3. Matsuyama lodging for Nov 3 — Culture Day, so book early  
-4. Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4  
-5. Hiroshima hotel (Nov 4–6)  
-6. Remaining Osaka and Onomichi hotels  
-7. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
-8. Verify Miyajima ropeway operational status before departure
+2. **Matsuyama lodging for Nov 3** — Culture Day, so book early  
+3. **Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4**  
+4. **Hiroshima hotel (Nov 4–6)**  
+5. Remaining **Osaka and Onomichi hotels**  
+6. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
+7. Verify Miyajima ropeway operational status before departure
 
 ## This week — lottery / fixed / high sell-out risk
 
 - [x] **Nintendo Museum (Uji, Mon Oct 19)** — confirmed for **16:00**.
 - [x] **Hakata-jima island lodging (Nov 2–3)** — Grandma's island Home Hakata / Matsusaki Ryokan confirmed.
-- [ ] **Shimanami bike rental** — confirm one-way Onomichi→Imabari drop-off is allowed for the chosen bike type.
+- [x] **Shimanami bike rental** — confirmed for Nov 2 at **Onomichi Station-front Rental Cycle**; city bikes with front pannier/basket and free helmets. Plan to return at **i.i.imabari! Cycle Station beside JR Imabari Station** on Nov 3.
 - [ ] **Matsuyama lodging (Nov 3)** — Culture Day; book early.
 - [ ] **Remaining hotels:** Osaka (Oct 28–31), Onomichi (Nov 1–2), Hiroshima (Nov 4–6).
 - [ ] **Hakata → Busan ferry (Nov 6)** — book the regular daytime New Camellia sailing and verify the exact 2026 departure/check-in details.

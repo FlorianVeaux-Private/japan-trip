@@ -22,17 +22,18 @@ Private confirmation URLs, authentication tokens, reservation numbers, payment d
 | Oct 24–25 | Kumano | Minshuku WAGO | €96 | Day 24 |
 | Oct 25–26 | Yunomine Onsen | J-Hoppers Kumano Yunomine Guesthouse | €71 | Day 25 |
 | Oct 26–28 | Kii-Katsuura | Hotel Nagisaya | €167 | Days 26–27 |
+| Oct 28–31 | Osaka | Hotel ASIATO | €144 | Days 28–30 |
 | Oct 31–Nov 1 | Kinosaki Onsen | つばき / Kinosaki Onsen Ryokan Tsubakino | €301 | Day 31 |
+| Nov 1–2 | Onomichi | Lemonsea Onomichi | €102 | Day 32 |
 | Nov 2–3 | Hakata-jima | Grandma's island Home Hakata - Matsusaki Ryokan | €212 | Day 33 |
+| Nov 3–4 | Matsuyama | Check In Matsuyama | €41 | Day 34 |
+| Nov 4–6 | Hiroshima | HOTEL MYSTAYS Hiroshima Peace Park | €118 | Days 35–36 |
 
-**Confirmed accommodation total:** €3,446 plus ¥38,000 for Koyasan, including the Sep 30 pre-trip night.
+**Confirmed accommodation total:** €3,851 plus ¥38,000 for Koyasan, including the Sep 30 pre-trip night.
 
 ## Remaining accommodation to book
 
-- Osaka — Oct 28–31
-- Onomichi — Nov 1–2
-- Matsuyama — Nov 3–4
-- Hiroshima — Nov 4–6
+**None.**
 
 ## Notes
 

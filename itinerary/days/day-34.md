@@ -1,7 +1,8 @@
 ## Day 34 — Nov 3 (Culture Day) — Shimanami Kaido cycling day 2: Hakata-jima → Imabari → Matsuyama
 
-**Sleep:** Matsuyama  
-**Lodging type:** comfortable central Matsuyama hotel (near Matsuyama-shi / Okaido or the JR station).
+**Sleep:** Check In Matsuyama  
+**Reservation:** Confirmed · Nov 3–4 · [reservation ledger](../reservations.md)  
+**Lodging type:** budget central hotel with a hot-spring bath, in the Okaido / central Matsuyama area.
 
 ### Why Culture Day works for cycling
 

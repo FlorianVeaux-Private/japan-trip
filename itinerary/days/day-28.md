@@ -1,7 +1,8 @@
 ## Day 28 — Oct 28 — Kii-Katsuura → Osaka
 
-**Sleep:** Osaka  
-**Lodging type:** comfortable hotel.
+**Sleep:** Hotel ASIATO, Osaka  
+**Reservation:** Confirmed · Oct 28–31 · [reservation ledger](../reservations.md)  
+**Lodging type:** compact budget hotel in Nipponbashi, near Kuromon Market and Namba.
 
 ### Travel: Kii-Katsuura to Osaka
 

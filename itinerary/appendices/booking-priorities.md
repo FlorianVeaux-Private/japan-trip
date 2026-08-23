@@ -3,20 +3,19 @@
 Book these early:
 
 1. Takayama → Kanazawa **direct** express highway bus (Nohi/Hokutetsu, reserve early via nouhibus.co.jp or the Nohi bus centre); the train via Toyama is the reservation-free fallback  
-2. **Matsuyama lodging for Nov 3** — Culture Day, so book early  
-3. **Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4**  
-4. **Hiroshima hotel (Nov 4–6)**  
-5. Remaining **Osaka and Onomichi hotels**  
-6. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
-7. Verify Miyajima ropeway operational status before departure
+2. **Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4**  
+3. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
+4. Verify Miyajima ropeway operational status before departure
 
 ## This week — lottery / fixed / high sell-out risk
 
 - [x] **Nintendo Museum (Uji, Mon Oct 19)** — confirmed for **16:00**.
+- [x] **Osaka lodging (Oct 28–31)** — Hotel ASIATO confirmed.
+- [x] **Onomichi lodging (Nov 1–2)** — Lemonsea Onomichi confirmed.
 - [x] **Hakata-jima island lodging (Nov 2–3)** — Grandma's island Home Hakata / Matsusaki Ryokan confirmed.
 - [x] **Shimanami bike rental** — confirmed for Nov 2 at **Onomichi Station-front Rental Cycle**; city bikes with front pannier/basket and free helmets. Plan to return at **i.i.imabari! Cycle Station beside JR Imabari Station** on Nov 3.
-- [ ] **Matsuyama lodging (Nov 3)** — Culture Day; book early.
-- [ ] **Remaining hotels:** Osaka (Oct 28–31), Onomichi (Nov 1–2), Hiroshima (Nov 4–6).
+- [x] **Matsuyama lodging (Nov 3–4)** — Check In Matsuyama confirmed.
+- [x] **Hiroshima lodging (Nov 4–6)** — HOTEL MYSTAYS Hiroshima Peace Park confirmed.
 - [ ] **Hakata → Busan ferry (Nov 6)** — book the regular daytime New Camellia sailing and verify the exact 2026 departure/check-in details.
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa).
@@ -51,6 +50,6 @@ Rail seats can't be reserved until the 30-day window opens. Prioritize the scarc
 
 - [ ] **K-ETA + passport for Korea** — arriving Busan by ferry. Verify whether a French passport needs K-ETA in late 2026 (temporary exemption ended Dec 2025, so it may be required again; apply ≥72h before). Confirm passport valid 6+ months past Nov 7.  
 - [ ] **Kumano luggage shuttle (Days 24–25)** — if wanted, book **≥20 days ahead** via Kumano Travel; only works for accommodations booked through their system. Otherwise plan to carry a daypack.  
-- [ ] **Yamato forwarding Osaka → Hiroshima** — can only create the label once the Hiroshima hotel is booked; set a scheduled delivery date ~Nov 3–4.  
+- [ ] **Yamato forwarding Osaka → Hiroshima** — hotel is now booked; confirm the hotel will accept the advance shipment and prepare the scheduled delivery for ~Nov 3–4.  
 - [ ] **Verify Miyajima ropeway operating status** before the trip.  
 - [ ] **Check Nov 5 tide tables** for Miyajima (high tide = floating torii; low tide = walk to the gate).

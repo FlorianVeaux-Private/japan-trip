@@ -4,7 +4,7 @@ Book these early:
 
 1. Takayama → Kanazawa **direct** express highway bus (Nohi/Hokutetsu, reserve early via nouhibus.co.jp or the Nohi bus centre); the train via Toyama is the reservation-free fallback  
 2. **Matsuyama → Hiroshima late-morning/midday Super Jet ferry for Nov 4**  
-3. **Hakata → Busan New Camellia ferry for Nov 6** — verify the exact 2026 daytime sailing, terminal, check-in deadline and baggage rules; do not rely on the Nov 7 fireworks sailing  
+3. **Hakata → Busan New Camellia ferry for Nov 6** — confirmed. Hakata 12:30 → Busan 18:30; check-in 10:30–11:30. **Reservation 5117393**.  
 4. Verify Miyajima ropeway operational status before departure
 
 ## This week — lottery / fixed / high sell-out risk
@@ -16,7 +16,11 @@ Book these early:
 - [x] **Shimanami bike rental** — confirmed for Nov 2 at **Onomichi Station-front Rental Cycle**; city bikes with front pannier/basket and free helmets. Plan to return at **i.i.imabari! Cycle Station beside JR Imabari Station** on Nov 3.
 - [x] **Matsuyama lodging (Nov 3–4)** — Check In Matsuyama confirmed.
 - [x] **Hiroshima lodging (Nov 4–6)** — HOTEL MYSTAYS Hiroshima Peace Park confirmed.
-- [ ] **Hakata → Busan ferry (Nov 6)** — book the regular daytime New Camellia sailing and verify the exact 2026 departure/check-in details.
+- [x] **Hakata → Busan ferry (Nov 6)** — confirmed and paid. **Reservation 5117393**; 2 adults, 2nd class; Hakata 12:30 → Busan 18:30; check-in 10:30–11:30.  
+  - **E-ticket / reservation certificate:** 「予約確認書 / e-ticket」, issued **2026/09/05**.  
+  - **Reservation date:** 2026/08/24 01:12.  
+  - **E-ticket:** https://www.camellia-line.co.jp/rs/idv/member/cert/5117393  
+  - **Email retrieval reference:** **“予約受付完了のお知らせ/Notification of completion of reservation reception”**, **dim. 23 août 12:16**.
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** and any **kaiseki** dinner (Kyoto/Kanazawa).
 

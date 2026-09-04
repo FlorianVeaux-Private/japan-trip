@@ -26,7 +26,7 @@ This section summarizes every major move between bases.
 | 32 | Kinosaki Onsen → Onomichi | Hamakaze LEX to Himeji + Sanyo Shinkansen to Fukuyama + local JR to Onomichi | Hard/moderate | Fast route ~3–3.5h **if you catch the morning Hamakaze (~08:58)** — only ~2 southbound/day. Target regular Onomichi Station, not Shin-Onomichi. |
 | 33 | Onomichi → Hakata-jima | Ferry + bike (~45–50 km) | Active | Longer first half of Shimanami; sleep at confirmed Hakata-jima ryokan. |
 | 34 | Hakata-jima → Imabari → Matsuyama | Bike (~25–30 km) + Imabari→Matsuyama JR LEX (~40 min) | Active | Culture Day. Shorter second ride protects the bike return and Matsuyama transfer. Allow ~60–90 min terminal-to-Matsuyama incl. bike drop. Sleep in central Matsuyama; no Hiroshima ferry tonight. |
-| 35 | Matsuyama → Hiroshima | Iyotetsu to Takahama port + Super Jet ferry (~70 min) | Moderate | Matsuyama Castle in the morning, then ~75–90 min door-to-boat for a late-morning/midday Super Jet. |
+| 35 | Matsuyama → Hiroshima | Iyotetsu to Takahama port + **Linear Jet ferry (09:05 → 10:35)** | Moderate | **Booked, reservation 0751.** Leave central Matsuyama around ~07:30 to allow the ~75–90 min door-to-boat transfer and pre-departure check-in. No morning Matsuyama Castle visit. |
 | 37 | Hiroshima → Miyajima → Hiroshima → Fukuoka | Train + ferry + train + shinkansen | Moderate/hard | Early Miyajima visit, then continue west to Fukuoka for the afternoon/evening. Do not return to Osaka. |
 | 38 | Fukuoka / Hakata → Busan | New Camellia Line ferry, daytime ~10:30 (~5.5–6h) | Moderate | Fixed Nov 7 constraint. Beetle hydrofoil withdrawn — use Camellia Line. Be at terminal ~08:30–09:00; verify 2026 schedule/baggage. |
 

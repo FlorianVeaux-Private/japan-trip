@@ -9,6 +9,8 @@ Book these early:
 
 ## High priority — book now
 
+- [x] **Tobu SPACIA X 001 — Oct 5** — confirmed. Asakusa **07:50 → Tobu-Nikko 09:39**; 2 adults, standard, Car 4 seats 11C/11D; order **Ex202609080DF8IW**; Limited Express ticket **¥3,880**. Basic Tobu fare separate.
+- [x] **Tobu Revaty Kegon 014 — Oct 7** — confirmed. Tobu-Nikko **08:50 → Asakusa 10:45**; 2 adults, standard, Car 6 seats 11C/11D; order **Ex202609080BK5ZO**; Limited Express ticket **¥3,300**. Basic Tobu fare separate.
 - [x] **Nintendo Museum (Uji, Mon Oct 19)** — confirmed for **16:00**.
 - [x] **Osaka lodging (Oct 28–31)** — Hotel ASIATO confirmed.
 - [x] **Onomichi lodging (Nov 1–2)** — Lemonsea Onomichi confirmed.
@@ -39,7 +41,7 @@ Rail seats can't be reserved until the relevant booking window opens. JR reserve
 | Set reminder | Book on/after | Leg | Why |
 | :---- | :---- | :---- | :---- |
 | **Sep 4** | Sep 4 | **Linear Jet** Matsuyama → Hiroshima (Nov 4) | Reservations open 2 months ahead; special dock timetable applies Oct 31–Nov 13 |
-| **Sep 5 09:00** | Sep 5 09:00 | Tobu **Spacia X** → Nikko (Oct 5) | Popular, limited seats |
+| **Sep 5 09:00** | Sep 5 09:00 | Tobu **Spacia X** → Nikko (Oct 5) | **Booked: SPACIA X 001, 07:50 → 09:39; order Ex202609080DF8IW.** |
 | **Sep 8 10:00** | Sep 8 10:00 | Shinkansen + Shinano → Nakatsugawa (Oct 8) | Lock reserved seats |
 | **Sep 10 10:00** | Sep 10 10:00 | **Hida** LEX → Takayama (Oct 10) | Festival week — fills |
 | **Sep 12 09:30** | Sep 12 09:30 | **Nohi bus** Takayama → Kanazawa (Oct 12) | Reservation required |

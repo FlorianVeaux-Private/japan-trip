@@ -4,9 +4,9 @@ This section summarizes every major move between bases.
 
 | Day | Route | Transport | Effort | Notes |
 | ----: | :---- | :---- | :---- | :---- |
-| 5 | Tokyo → Nikko | Tobu Limited Express (Spacia X / Kegon) | Easy/moderate | ~1h50 direct; reserve seats. Slower routes take longer. |
+| 5 | Tokyo → Nikko | **Tobu SPACIA X 001** | Easy/moderate | **Booked: 07:50 → 09:39; 2 adults, standard, Car 4 seats 11C/11D; order Ex202609080DF8IW.** Limited Express ticket ¥3,880; basic Tobu fare separate. |
 | 6 | Nikko town → Okunikko → Nikko/Lake Chuzenji | Local bus | Moderate | Autumn buses can be busy; start early. |
-| 7 | Nikko → Tokyo | Tobu or JR train | Easy/moderate | Reset night before Kiso. |
+| 7 | Nikko → Tokyo | **Tobu Revaty Kegon 014** | Easy/moderate | **Booked: 08:50 → 10:45; 2 adults, standard, Car 6 seats 11C/11D; order Ex202609080BK5ZO.** Limited Express ticket ¥3,300; basic Tobu fare separate. |
 | 8 | Tokyo → Nakatsugawa → Magome (afternoon) | Shinkansen + Shinano Limited Express + local bus | Moderate | Arrive Nakatsugawa ~10:48. Bus to Magome ~11:15. Two nights in Magome. |
 | 9 | Magome → Tsumago → Nagiso → Nakatsugawa → Magome | Walk + bus + train + bus | Active | Walk 8km Magome→Tsumago. Return via Nagiso station; use a comfortable connection rather than relying on the tight 16:10→16:26 connection. |
 | 10 | Kiso Valley → Takayama | JR regular/rapid to Nagoya + Hida Limited Express | Moderate | Depart Nakatsugawa ~07:52, arrive Nagoya ~09:08, take Hida 5 at ~09:39, arrive Takayama ~12:14. Afternoon catches Hachiman Matsuri Day 2 (front-loaded to Oct 9). |

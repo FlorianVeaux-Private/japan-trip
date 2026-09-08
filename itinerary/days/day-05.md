@@ -5,7 +5,7 @@
 
 ### Travel: Tokyo to Nikko
 
-The best route is the **Tobu Limited Express Spacia X from Asakusa to Tobu-Nikko**, roughly **1h50 direct** — reserve seats in advance (Spacia X sells out). A useful morning departure is **07:50 → 09:39**. Slower rapid/local Tobu trains or JR routes (via Utsunomiya) take longer, closer to 2–2.5 hours with a connection.
+The best route is the **Tobu Limited Express SPACIA X 001 from Asakusa to Tobu-Nikko**, **07:50 → 09:39**, booked for 2 adults in standard seats (Car 4, seats 11C/11D). **Order ID: Ex202609080DF8IW.** Limited Express ticket total: **¥3,880**. The basic Tobu fare is separate. Slower rapid/local Tobu trains or JR routes (via Utsunomiya) take longer, closer to 2–2.5 hours with a connection.
 
 ### Plan
 

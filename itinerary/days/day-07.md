@@ -6,7 +6,7 @@
 
 ### Travel: Nikko to Tokyo
 
-Return by the Tobu Limited Express Spacia X, again **~1h50 direct** (or longer on slower rapid/local or JR routes). A comfortable late-morning option is around **11:55 → 13:45**.
+Return by the **Tobu Limited Express Revaty Kegon 014**, **08:50 → 10:45**, booked for 2 adults in standard seats (Car 6, seats 11C/11D). **Order ID: Ex202609080BK5ZO.** Limited Express ticket total: **¥3,300**. The basic Tobu fare is separate.
 
 ### Plan
 

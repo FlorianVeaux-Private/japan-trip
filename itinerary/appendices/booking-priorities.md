@@ -27,6 +27,7 @@ Book these early:
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** — reserve ahead for the target day.
 - [ ] **Kaiseki dinner (Kyoto/Kanazawa)** — reserve ahead; aim for one strong meal rather than multiple.
+- [ ] **Kiso transport (Oct 8)** — planned chain: **07:39 Tokyo → Nagoya by Shinkansen; 10:00 Nagoya → Nakatsugawa by Shinano; 11:15 Nakatsugawa → Magome bus**. Book the two trains when ready; the bus is not reserved.
 
 ### Waiting for booking window
 
@@ -42,7 +43,7 @@ Rail seats can't be reserved until the relevant booking window opens. JR reserve
 | :---- | :---- | :---- | :---- |
 | **Sep 4** | Sep 4 | **Linear Jet** Matsuyama → Hiroshima (Nov 4) | Reservations open 2 months ahead; special dock timetable applies Oct 31–Nov 13 |
 | **Sep 5 09:00** | Sep 5 09:00 | Tobu **Spacia X** → Nikko (Oct 5) | **Booked: SPACIA X 001, 07:50 → 09:39; order Ex202609080DF8IW.** |
-| **Sep 8 10:00** | Sep 8 10:00 | Shinkansen + Shinano → Nakatsugawa (Oct 8) | Lock reserved seats |
+| **Sep 8 10:00** | Sep 8 10:00 | Shinkansen + Shinano → Nakatsugawa (Oct 8) | **Decision locked: 07:39 Tokyo → Nagoya + 10:00 Shinano → Nakatsugawa + 11:15 bus → Magome.** Train bookings still pending. |
 | **Sep 10 10:00** | Sep 10 10:00 | **Hida** LEX → Takayama (Oct 10) | Festival week — fills |
 | **Sep 12 09:30** | Sep 12 09:30 | **Nohi bus** Takayama → Kanazawa (Oct 12) | Reservation required |
 | **Sep 14 10:00** | Sep 14 10:00 | **Thunderbird** → Kyoto (Oct 14) | Reserved-only |

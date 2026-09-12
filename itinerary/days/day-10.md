@@ -8,12 +8,14 @@
 
 | Time |  |
 | :---- | :---- |
-| ~07:52 | Regular/rapid JR service departs Nakatsugawa → Nagoya (~1h15) |
-| ~09:08 | Arrive Nagoya. Transfer to Hida Limited Express. |
-| ~09:39 | Hida 5 departs Nagoya → Takayama (~2h35) |
-| ~12:14 | Arrive Takayama |
+| **07:00** | Magome → Nakatsugawa bus; arrive ~07:25 |
+| **07:50** | JR rapid Nakatsugawa → Nagoya; arrive 09:08 |
+| **09:39** | **Hida 5** departs Nagoya → Takayama (~2h35) |
+| **12:14** | Arrive Takayama |
 
-The current timetable has **Hida 5 at 09:39 → 12:14**. The connection from the ~07:52 Nakatsugawa departure gives a comfortable transfer at Nagoya. An alternative is the **08:22 Shinano → 09:18 Nagoya**, followed by the same 09:39 Hida, but the regular/rapid option gives more transfer margin.
+The Saturday-compatible connection is **07:00 Magome → 07:25 Nakatsugawa → 07:50 JR → 09:08 Nagoya → 09:39 Hida 5 → 12:14 Takayama**. The 07:52 Nakatsugawa departure previously shown here is weekday-only and should not be used on Saturday Oct 10.
+
+**Hida booking:** reserve in advance via **JR-WEST ONLINE TRAIN RESERVATION**. Book **Oct 10, 2026 · Nagoya → Takayama · Hida 5 · 09:39 → 12:14 · 2 adults · ordinary reserved seats**. This is the only advance reservation needed for this morning's transport chain; the Magome bus and ordinary JR train are not reserved-seat services.
 
 ### Afternoon: Hachiman Matsuri Day 2
 

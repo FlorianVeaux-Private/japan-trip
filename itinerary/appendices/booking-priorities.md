@@ -24,6 +24,7 @@ Book these early:
   - **Reservation date:** 2026/08/24 01:12.  
   - **E-ticket:** https://www.camellia-line.co.jp/rs/idv/member/cert/5117393  
   - **Email retrieval reference:** **“予約受付完了のお知らせ/Notification of completion of reservation reception”**, **dim. 23 août 12:16**.
+- [ ] **Hida 5 (Oct 10)** — book via **JR-WEST ONLINE TRAIN RESERVATION** when Japanese business hours allow. **Nagoya → Takayama, 09:39 → 12:14, 2 adults, ordinary reserved seats.** Do not book a different Hida departure; this is the planned connection after the **07:50 Nakatsugawa → 09:08 Nagoya** JR rapid.
 - [ ] **teamLab Borderless (Oct 4)** — advance timed ticket; weekend slots go first.
 - [ ] **Tea ceremony (Uji/Kyoto)** — reserve ahead for the target day.
 - [ ] **Kaiseki dinner (Kyoto/Kanazawa)** — reserve ahead; aim for one strong meal rather than multiple.
@@ -44,7 +45,7 @@ Rail seats can't be reserved until the relevant booking window opens. JR reserve
 | **Sep 4** | Sep 4 | **Linear Jet** Matsuyama → Hiroshima (Nov 4) | Reservations open 2 months ahead; special dock timetable applies Oct 31–Nov 13 |
 | **Sep 5 09:00** | Sep 5 09:00 | Tobu **Spacia X** → Nikko (Oct 5) | **Booked: SPACIA X 001, 07:50 → 09:39; order Ex202609080DF8IW.** |
 | **Sep 8 10:00** | Sep 8 10:00 | Shinkansen + Shinano → Nakatsugawa (Oct 8) | **Decision locked: 07:39 Tokyo → Nagoya + 10:00 Shinano → Nakatsugawa + 11:15 bus → Magome.** Train bookings still pending. |
-| **Sep 10 10:00** | Sep 10 10:00 | **Hida** LEX → Takayama (Oct 10) | Festival week — fills |
+| **Sep 10 10:00** | Sep 10 10:00 | **Hida** LEX → Takayama (Oct 10) | **Booking open. Exact booking: Hida 5, Nagoya 09:39 → Takayama 12:14, 2 adults, ordinary reserved seats.** |
 | **Sep 12 09:30** | Sep 12 09:30 | **Nohi bus** Takayama → Kanazawa (Oct 12) | Reservation required |
 | **Sep 14 10:00** | Sep 14 10:00 | **Thunderbird** → Kyoto (Oct 14) | Reserved-only |
 | **Sep 22 10:00** | Sep 22 10:00 | Nankai Kōya ltd exp → Koyasan (Oct 22) | Reserve seat |

@@ -28,7 +28,7 @@ The itinerary is split into small Markdown files so individual sections can be e
 
 - [Day 10 — Oct 10 — Kiso Valley → Takayama (Hachiman Matsuri Day 2\)](days/day-10.md)
 - [Day 11 — Oct 11 — Takayama full day](days/day-11.md)
-- [Day 12 — Oct 12 — Takayama → Kanazawa (direct)](days/day-12.md)
+- [Day 12 — Oct 12 — Takayama → Kanazawa (via Shirakawa-go)](days/day-12.md)
 
 ### Kanazawa
 

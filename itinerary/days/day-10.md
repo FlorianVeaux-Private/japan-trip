@@ -15,7 +15,7 @@
 
 The Saturday-compatible connection is **07:00 Magome → 07:25 Nakatsugawa → 07:50 JR → 09:08 Nagoya → 09:39 Hida 5 → 12:14 Takayama**. The 07:52 Nakatsugawa departure previously shown here is weekday-only and should not be used on Saturday Oct 10.
 
-**Hida booking:** reserve in advance via **JR-WEST ONLINE TRAIN RESERVATION**. Book **Oct 10, 2026 · Nagoya → Takayama · Hida 5 · 09:39 → 12:14 · 2 adults · ordinary reserved seats**. This is the only advance reservation needed for this morning's transport chain; the Magome bus and ordinary JR train are not reserved-seat services.
+**Hida booking:** **confirmed via JR-WEST ONLINE TRAIN RESERVATION.** Oct 10, 2026 · Nagoya → Takayama · **Hida 5 · 09:39 → 12:14 · 2 adults · ordinary reserved seats · Car 6 seats 7C/7D**. Reservation No. **47245**; regular ticket including basic fare; total **¥12,680**. Ticket reception requires the physical credit card used for payment and the 4-digit identification number (the user's **“eSIM PIN”**). The Magome bus and ordinary JR train are not reserved-seat services.
 
 ### Afternoon: Hachiman Matsuri Day 2
 

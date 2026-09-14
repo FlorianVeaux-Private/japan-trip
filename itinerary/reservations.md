@@ -31,6 +31,59 @@ Private confirmation URLs, authentication tokens, reservation numbers, payment d
 
 **Confirmed accommodation total:** €3,851 plus ¥38,000 for Koyasan, including the Sep 30 pre-trip night.
 
+## Estimated transport budget
+
+Planning estimate for 2 adults. Japan-only transport excludes the Hakata → Busan ferry, which is listed separately below. Amounts marked as estimates are planning allowances rather than confirmed fares.
+
+| Segment | Transport | ¥ / person | ¥ / 2 people | Status |
+| :---- | :---- | ----: | ----: | :---- |
+| Tokyo — first stay | Metro / JR | ~¥2,500 | ~¥5,000 | Estimate |
+| Tokyo → Nikko | Tobu / limited express | ~¥3,000 | ~¥6,000 | Estimate |
+| Nikko local | Buses / local transport | ~¥2,000 | ~¥4,000 | Estimate |
+| Nikko → Tokyo | Tobu / limited express | ~¥3,000 | ~¥6,000 | Estimate |
+| Tokyo — second stay | Metro / JR | ~¥1,000 | ~¥2,000 | Estimate |
+| Tokyo → Magome | Shinkansen + JR + bus | ~¥11,000 | ~¥22,000 | Estimate |
+| Magome / Nakasendo | Local buses | ~¥1,500 | ~¥3,000 | Estimate |
+| Magome → Takayama | JR / bus combination | ~¥5,000 | ~¥10,000 | Estimate |
+| Takayama local | Local buses | ~¥1,000 | ~¥2,000 | Estimate |
+| Takayama → Kanazawa | Highway bus | ~¥3,600 | ~¥7,200 | Current fare |
+| Kanazawa local | Buses | ~¥1,000 | ~¥2,000 | Estimate |
+| Kanazawa → Kyoto | Limited Express Thunderbird | ~¥8,000 | ~¥16,000 | Estimate |
+| Kyoto local | Subway / bus / JR | ~¥4,000 | ~¥8,000 | Estimate |
+| Kyoto ↔ Uji | JR / local train | ~¥800 | ~¥1,600 | Estimate |
+| Kyoto → Nara | JR / local train | ~¥1,000 | ~¥2,000 | Estimate |
+| Nara local | Walking / bus | ~¥500 | ~¥1,000 | Estimate |
+| Nara → Koyasan | Private railway + cable / bus | ~¥3,500 | ~¥7,000 | Estimate |
+| Koyasan → Kii-Tanabe | Direct bus | ¥4,890 | ¥9,780 | Current fare |
+| Kii-Tanabe → Takijiri | Kumano bus | ¥970 | ¥1,940 | Current fare |
+| Kumano Kodo local | Local buses | ~¥3,000 | ~¥6,000 | Estimate |
+| Hongu / Yunomine → Shingu | Bus | ~¥2,000 | ~¥4,000 | Estimate |
+| Shingu → Kii-Katsuura | JR local | ~¥250 | ~¥500 | Estimate |
+| Kii-Katsuura / Nachi | Local buses | ~¥2,000 | ~¥4,000 | Estimate |
+| Kii-Katsuura → Osaka | JR limited express | ~¥6,500 | ~¥13,000 | Estimate |
+| Osaka local | Metro / JR | ~¥2,000 | ~¥4,000 | Estimate |
+| Osaka ↔ Himeji | JR | ~¥3,000 | ~¥6,000 | Estimate |
+| Osaka → Kinosaki | Limited Express Kounotori | ¥6,140 | ¥12,280 | Current fare |
+| Kinosaki → Onomichi | Hamakaze + Himeji / Fukuyama connection | ~¥8,000 | ~¥16,000 | Estimate |
+| Onomichi local | Local transport | ~¥500 | ~¥1,000 | Estimate |
+| Shimanami Kaido | Bike rental + ferries | ~¥1,500 | ~¥3,000 | Estimate |
+| Hakata-jima → Imabari | Ferry | ~¥1,500 | ~¥3,000 | Estimate |
+| Imabari local | Bus / train | ~¥1,000 | ~¥2,000 | Estimate |
+| Imabari → Matsuyama | JR / local train | ~¥1,000 | ~¥2,000 | Estimate |
+| Matsuyama local | Tram / bus | ~¥1,000 | ~¥2,000 | Estimate |
+| Matsuyama → Hiroshima | Super Jet | ¥8,800 | ¥17,600 | Current official fare |
+| Hiroshima local | Tram / JR / bus | ~¥2,000 | ~¥4,000 | Estimate |
+| Hiroshima ↔ Miyajima | JR + ferry | ~¥1,000 | ~¥2,000 | Estimate |
+| Hiroshima → Hakata | Shinkansen | ~¥5,500 | ~¥11,000 | Estimate |
+| **Japan transport total** | | **~¥115,000–130,000** | **~¥230,000–260,000** | Planning range |
+| Hakata → Busan | New Camellia ferry | ~¥10,700 | ~¥21,400 | Current fare; excluded above |
+
+**Recommended Japan transport budget:** ~€650–700/person, or ~€1,300–1,400 for 2, excluding the Hakata → Busan ferry.
+
+**Hakata → Busan ferry:** budget an additional ~€60/person, or ~€120 for 2.
+
+**Pass strategy:** No nationwide JR Pass planned. The itinerary mixes JR, Tobu, highway buses, Koyasan/Kumano buses, Shimanami transport and ferries, so a national JR Pass is not expected to be good value.
+
 ## Remaining accommodation to book
 
 **None.**

@@ -10,14 +10,16 @@
 
 | Time |  |
 | :---- | :---- |
-| **07:39** | Shinkansen departs Tokyo → Nagoya (~1h40) |
-| ~09:16 | Arrive Nagoya. Transfer to Shinano Limited Express. |
-| **10:00** | Shinano Limited Express departs Nagoya → Nakatsugawa (~50 min) |
-| ~10:48 | Arrive **Nakatsugawa**. |
+| **07:39** | **Nozomi 237** departs Tokyo → Nagoya |
+| **09:15** | Arrive Nagoya. Transfer to Chuo Line. |
+| **09:23** | Chuo Line departs Nagoya → Nakatsugawa |
+| **10:36** | Arrive **Nakatsugawa**. |
 | **11:15** | Bus departs Nakatsugawa → Magome (~25–30 min) |
 | ~11:40 | Arrive **Magome**. Drop bags. |
 
-**Transport decision:** Keep the **07:39 Tokyo → Nagoya + 10:00 Nagoya → Nakatsugawa + 11:15 Nakatsugawa → Magome** chain. The 10:00 Shinano leaves ~44 min after the planned Shinkansen arrival, and the 11:15 Magome bus is the key rural connection. The plan deliberately avoids an unnecessarily early Tokyo departure while retaining reasonable connection buffers.
+**Reservation:** JR-WEST ONLINE TRAIN RESERVATION **No. 40605**, 2 adults, reserved ordinary seats **Car 4, 16D/16E**, regular ticket including basic fare, **¥24,140**. Physical ticket pickup required before boarding.
+
+**Transport decision:** The Tokyo → Nakatsugawa rail chain is confirmed. The 11:15 Nakatsugawa → Magome bus remains unreserved and is the key rural connection.
 
 ### Plan
 

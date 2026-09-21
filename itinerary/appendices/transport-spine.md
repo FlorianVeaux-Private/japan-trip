@@ -11,7 +11,7 @@ This section summarizes every major move between bases.
 | 9 | Magome → Tsumago → Nagiso → Nakatsugawa → Magome | Walk + bus + train + bus | Active | Walk 8km Magome→Tsumago. Return via Nagiso station; use a comfortable connection rather than relying on the tight 16:10→16:26 connection. |
 | 10 | Kiso Valley → Takayama | JR rapid to Nagoya + Hida Limited Express | Moderate | **07:00 Magome → 07:25 Nakatsugawa bus; 07:50 JR → 09:08 Nagoya; Hida 5 09:39 → 12:14 Takayama. Booked: 2 adults, ordinary reserved seats, Car 6 seats 7C/7D, reservation 47245, total ¥12,680 including basic fare.** Afternoon catches Hachiman Matsuri Day 2 (front-loaded to Oct 9). |
 | 12 | Takayama → Kanazawa | Express highway bus via Shirakawa-go | Moderate | **Booked because the direct 07:50 service was full.** 07:20 Takayama → 08:10 Shirakawa-go (Ogimachi), then 10:25 → 11:50 Kanazawa Station West Exit Bus Stop No.4; reservations **09132030171** and **09132029501**; 2 adults, ¥11,200 total. |
-| 14 | Kanazawa → Kyoto | Hokuriku Shinkansen + Thunderbird via Tsuruga | Easy/moderate | Roughly 2–2.5 hours depending on connections. |
+| 14 | Kanazawa → Kyoto | **Hokuriku Shinkansen + Thunderbird via Tsuruga** | Easy/moderate | **Booked: Tsurugi 13, Kanazawa 09:05 → Tsuruga 10:01; Thunderbird 14, Tsuruga 10:14 → Kyoto 11:09. 2 adults, ordinary reserved seats.** |
 | 17 | Kyoto → Uji → Kyoto | JR or Keihan local train | Easy | About 20–40 minutes each way. |
 | 21 | Kyoto → Nara | JR or Kintetsu train | Easy | About 35–50 minutes; Kintetsu is convenient for Nara Park. |
 | 22 | Nara/Osaka area → Koyasan | Train + cable car + bus | Moderate | Multi-leg trip via Osaka/Namba and Nankai Railway. |

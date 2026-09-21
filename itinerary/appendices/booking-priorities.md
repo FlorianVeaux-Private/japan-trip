@@ -34,7 +34,7 @@ Book these early:
 - [ ] **Hamakaze (Nov 1)** — reserve the suitable morning southbound service as soon as the Oct 1 booking window opens. **This is the one remaining transport reservation with a meaningful itinerary dependency.**
 - [ ] **Kounotori (Oct 31)** — reserve a through Osaka → Kinosaki service when the Oct 1 window opens. If the preferred train is unavailable, adjust departure rather than the destination.
 - [ ] **Kuroshio (Oct 28)** — reserve when the Sep 28 window opens; several services exist, so this is convenience rather than a likely trip-breaking sell-out.
-- [ ] **Thunderbird (Oct 14)** — reserve when the Sep 14 window opens; alternative connections exist.
+- [x] **Kanazawa → Kyoto (Oct 14)** — confirmed. **Tsurugi 13, Kanazawa 09:05 → Tsuruga 10:01; Thunderbird 14, Tsuruga 10:14 → Kyoto 11:09.** 2 adults, ordinary reserved seats. **Booking details stored in 1Password.**
 - [ ] **Koya Limited Express (Oct 22)** — reserve when the Sep 22 window opens if you want the Limited Express; ordinary Nankai services are the fallback.
 - [ ] **Hiroshima → Hakata Shinkansen (Nov 6)** — reserve when the Oct 6 window opens, before the international ferry.
 - [ ] **Tea ceremony (Uji/Kyoto)** — reserve ahead for the target day if you want a specific provider/time.

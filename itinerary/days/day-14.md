@@ -11,7 +11,7 @@ Typical current route:
 1. Kanazawa → Tsuruga by Hokuriku Shinkansen  
 2. Tsuruga → Kyoto by Thunderbird limited express
 
-Expect roughly **2 to 2.5 hours** depending on connections.
+**Booked:** Tsurugi 13, Kanazawa **09:05 → 10:01** Tsuruga; Thunderbird 14, Tsuruga **10:14 → 11:09** Kyoto. 2 adults, ordinary reserved seats. **Booking details stored in 1Password.**
 
 ### Plan
 

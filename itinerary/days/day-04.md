@@ -41,4 +41,4 @@ teamLab and Akihabara can both be visually and mentally intense. Build in a real
 
 This is also the day to confirm the Nikko travel plan, prepare a small bag if needed, and avoid staying out too late before leaving Tokyo.
 
-**Booking note — teamLab Borderless:** teamLab (now at Azabudai Hills) is **advance timed-reservation only — no walk-ups.** Weekend/Sunday slots sell out first, so book weeks to months ahead. Confirm the exact Oct 4 hours on teamlab.art closer to the date (some days close early).
+**Booking note — teamLab Borderless:** **Booked for Sun Oct 4, 09:00–09:30, 2 adults.** Ticket details are stored in **1Password**.

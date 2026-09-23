@@ -38,7 +38,6 @@ Book these early:
 - [ ] **Koya Limited Express (Oct 22)** — reserve when the Sep 22 window opens if you want the Limited Express; ordinary Nankai services are the fallback.
 - [ ] **Hiroshima → Hakata Shinkansen (Nov 6)** — reserve when the Oct 6 window opens, before the international ferry.
 - [ ] **Tea ceremony (Uji/Kyoto)** — reserve ahead for the target day if you want a specific provider/time.
-- [ ] **Kaiseki dinner (Kyoto/Kanazawa)** — reserve ahead; aim for one strong meal rather than multiple.
 
 ### What can stay flexible
 

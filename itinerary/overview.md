@@ -24,7 +24,7 @@ The trip finishes westward — Shimanami Kaido → Matsuyama → Hiroshima → M
 
 | Dates | Days | Base | Purpose |
 | :---- | ----: | :---- | :---- |
-| Oct 1–4 | 1–4 | Tokyo | Arrival, food, acclimatization, first base |
+| Oct 1–4 | 1–4 | Tokyo | Asakusa, Imperial Palace, Tsukiji, Ueno, Tokyo National Museum, Meiji Jingu, Shibuya, teamLab and Akihabara |
 | Oct 5–6 | 5–6 | Nikko / Okunikko | Shrines, waterfalls, forest, autumn nature |
 | Oct 7 | 7 | Tokyo | Reset night before heading to Kiso |
 | Oct 8–9 | 8–9 | Magome | Nakasendo walk (2 nights: half-day arrival + 1 full walking day); Magome and Tsumago |

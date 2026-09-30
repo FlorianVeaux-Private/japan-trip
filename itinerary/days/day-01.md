@@ -1,45 +1,38 @@
-## Day 1 — Oct 1 — Arrive in Tokyo / Shinjuku soft landing
+## Day 1 — Oct 1 — Asakusa, Kappabashi and Imperial Palace
 
 **Sleep:** APA Hotel Ueno Okachimachi Ekimae Minami  
 **Reservation:** Confirmed · Oct 1–5 · [reservation ledger](../reservations.md)  
 **Lodging type:** comfortable city hotel in a practical area.
 
-Arrive in Tokyo around **8:00am**. Keep this as an acclimatization day, but not an empty one. The goal is to get oriented, spend time outside, eat something easy, and avoid making the first night miserable.
+Since the Tokyo arrival is already handled the previous evening, use the first full day for Tokyo's traditional east side and the Imperial Palace area.
 
 ### Plan
 
-- Arrive at the airport  
-- Transfer into Tokyo  
-- Drop bags at the hotel  
-- Get cash / IC card / basic logistics sorted  
-- Easy lunch near the hotel or Shinjuku  
-- **Shinjuku Gyoen**  
-- Shinjuku wander  
-- Casual dinner  
-- Early-ish night
+- **Asakusa / Senso-ji** in the morning
+- Buy a **goshuincho** if a good one is available
+- **Kappabashi** kitchenware street
+- **Imperial Palace / East Gardens**
+- Optional **Hamarikyu Garden**
+- Casual dinner
 
 ### Recommended skeleton
 
-Use Shinjuku as the main zone for the day.
-
 **Suggested flow:**
 
-1. Airport → hotel / bag drop  
-2. Simple lunch  
-3. Shinjuku Gyoen  
-4. Tokyo Metropolitan Government Building observatory if energy allows  
-5. Depachika food basement or Omoide Yokocho for dinner  
-6. Early night
+1. Asakusa / Senso-ji
+2. Buy goshuincho
+3. Kappabashi kitchenware street
+4. Imperial Palace / East Gardens
+5. Hamarikyu Garden if energy and weather are good
+6. Casual dinner
 
 ### Filler options depending on mood
 
-- **Tokyo Metropolitan Government Building observatory** — easy skyline view, good if the weather is clear.  
-- **Isetan or Takashimaya depachika** — excellent food basement browsing; good for snacks, sweets, or low-pressure dinner.  
-- **Omoide Yokocho** — atmospheric alley near Shinjuku Station; good for a short look or simple bite.  
-- **Kabukicho / Godzilla head** — quick “this is Tokyo” moment, not worth over-planning.  
-- **Golden Gai quick walk** — visually interesting, but better as a quick look than a drinking night on arrival.  
-- **Meiji Jingu only if unusually energetic** — possible, but better saved for Day 3 unless the day is going very smoothly.
+- **Sumida River walk** — easy, scenic filler around Asakusa.
+- **Tokyo Skytree from a distance** — nice visual anchor from the Asakusa/Sumida area; no need to go up by default.
+- **Kuramae** — cafés, stationery, small craft/design shops if you want a little more time around the east side.
+- **Hamarikyu Garden** — optional garden stop; a good contrast between a traditional Japanese garden and Tokyo's modern skyline.
 
 ### Notes
 
-Do not plan teamLab, Akihabara, Kabuki, or a major dinner reservation on arrival day. Jet lag may hit later than expected.
+Keep Hamarikyu optional. The core of the day is Asakusa → Kappabashi → Imperial Palace, which is already a full first day.

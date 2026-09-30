@@ -1,43 +1,40 @@
-## Day 4 — Oct 4 — teamLab, modern Tokyo and Akihabara
+## Day 4 — Oct 4 — teamLab, Akihabara and Pokémon
 
 **Sleep:** Tokyo
 
-Final full Tokyo day before Nikko. This day is about modern Tokyo, digital art, otaku/pop-culture texture and a final good Tokyo dinner.
+Final full Tokyo day before Nikko. This day is about digital art, Akihabara and Pokémon / trading-card shopping.
 
 ### Plan
 
-- **teamLab Borderless**  
-- Recovery break / lunch  
-- Optional modern Tokyo filler  
-- **Kanda Myojin**  
-- **Akihabara** quick hit  
+- **teamLab Borderless**
+- Recovery break / lunch
+- **Kanda Myojin** as an optional stop
+- **Akihabara**
+- **Pokémon Card shopping**
+- **Pokémon Center**
 - Casual dinner
 
 ### Recommended skeleton
 
 **Suggested flow:**
 
-1. teamLab Borderless  
-2. Lunch or coffee break  
-3. Tokyo Tower / Zojoji, Ginza, or Roppongi depending on mood  
-4. Kanda Myojin  
-5. Akihabara  
-6. Dinner
+1. teamLab Borderless
+2. Lunch / real break
+3. Kanda Myojin if convenient
+4. Akihabara
+5. Pokémon Card shopping
+6. Pokémon Center
+7. Dinner
 
 ### Filler options depending on mood
 
-- **Tokyo Tower / Zojoji** — classic tower-and-temple contrast; a good visual add-on after teamLab.  
-- **Roppongi / Azabudai Hills area** — modern architecture, cafés, city feel; convenient around teamLab.  
-- **Ginza** — not for fashion by default; useful for stationery, depachika, food halls, architecture, and possibly Kabuki.  
-- **Kabuki single-act ticket** — good if timing works and you want one distinctive performing-arts experience without committing to a full program.  
-- **Jimbocho** — book district, curry, older academic Tokyo atmosphere; works well before or after Akihabara if the geography makes sense.  
-- **Kanda Myojin** — shrine near Akihabara with a fun tradition-meets-pop-culture feel; a very good filler before Akihabara.  
-- **Akihabara arcades / retro games / figure shops** — keep this quick unless it turns out to be more fun than expected.  
-- **Final Tokyo dinner** — ramen, izakaya, standing sushi, yakitori, or a casual neighborhood place rather than a high-end reservation.
+- **Akihabara arcades / retro games / figure shops** — keep this flexible; prioritize the shops that actually interest you.
+- **Kanda Myojin** — shrine near Akihabara with a useful tradition-meets-pop-culture contrast.
+- **Jimbocho** — book district and curry if you want a quieter alternative before or after Akihabara.
 
 ### Notes
 
-teamLab and Akihabara can both be visually and mentally intense. Build in a real break between them rather than making the day one continuous sensory overload.
+teamLab and Akihabara can both be visually and mentally intense. Keep the lunch break real rather than making the day one continuous shopping loop.
 
 This is also the day to confirm the Nikko travel plan, prepare a small bag if needed, and avoid staying out too late before leaving Tokyo.
 

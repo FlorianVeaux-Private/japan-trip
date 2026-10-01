@@ -40,7 +40,7 @@ Kinosaki is useful here because it is compact, atmospheric, and works well as a 
 - Walk the willow-lined canal area  
 - Start the **sotoyu-meguri** public bathhouse circuit  
 - Ryokan dinner  
-- Evening bathhouse stroll in yukata
+- Evening bathhouse stroll in yukata  
 
 ### Notes
 

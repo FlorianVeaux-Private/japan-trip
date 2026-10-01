@@ -22,8 +22,8 @@ This section summarizes every major move between bases.
 | 27 | Kii-Katsuura → Daimon-zaka / Nachi → Kii-Katsuura | Local bus + walking | Moderate | Dedicated Nachi finale; second night in Kii-Katsuura. |
 | 28 | Kii-Katsuura → Osaka | JR limited express | Hard/moderate | Long but straightforward exit; no ambitious sightseeing. |
 | 29 | Osaka → Himeji → Osaka | Shinkansen or JR special rapid | Easy | 30 min by shinkansen, around 1 hour by special rapid. |
-| 31 | Osaka → Kinosaki Onsen | JR limited express Kounotori | Moderate | ~2h45 (some Kounotori terminate at Fukuchiyama — pick a through service). Forward main luggage to the Hiroshima hotel before leaving Osaka. |
-| 32 | Kinosaki Onsen → Onomichi | Hamakaze LEX to Himeji + Sanyo Shinkansen to Fukuyama + local JR to Onomichi | Hard/moderate | Fast route ~3–3.5h **if you catch a suitable morning Hamakaze** — only a small number of southbound services fit the plan. Target regular Onomichi Station, not Shin-Onomichi. |
+| 31 | Osaka → Kinosaki Onsen | JR limited express Kounotori | Moderate | ~2h45 (some Kounotori terminate at Fukuchiyama — pick a through service). Forward main luggage to the Hiroshima hotel before leaving Osaka. Protect the Oct 31 evening for the onsen-town experience and the Nov 1 ryokan breakfast. |
+| 32 | Kinosaki Onsen → Onomichi | **Kounotori 12 + Nozomi 25 + JR local 4409M** | Moderate | **Booked: 09:33 → 12:29 Shin-Osaka; 13:02 → 14:03 Fukuyama; 14:31 → 14:50 Onomichi.** Protect the ryokan breakfast; Nov 1 is a travel-first day with only a short Onomichi evening. |
 | 33 | Onomichi → Hakata-jima | Ferry + bike (~45–50 km) | Active | Longer first half of Shimanami; sleep at confirmed Hakata-jima ryokan. |
 | 34 | Hakata-jima → Imabari → Matsuyama | Bike (~25–30 km) + Imabari→Matsuyama JR LEX (~40 min) | Active | Culture Day. Shorter second ride protects the bike return and Matsuyama transfer. Allow ~60–90 min terminal-to-Matsuyama incl. bike drop. Sleep in central Matsuyama; no Hiroshima ferry tonight. |
 | 35 | Matsuyama → Hiroshima | Iyotetsu to Takahama port + **Linear Jet ferry (09:05 → 10:35)** | Moderate | **Booked, reservation 0751.** Leave central Matsuyama around ~07:30 to allow the ~75–90 min door-to-boat transfer and pre-departure check-in. No morning Matsuyama Castle visit. |
@@ -33,7 +33,7 @@ This section summarizes every major move between bases.
 ## Key transport principles
 
 - Reserve fixed-seat limited expresses and festival-period services early, but distinguish genuine itinerary dependencies from simple convenience reservations.
-- The remaining highest-priority rail reservation is the **Hamakaze on Nov 1**, because the preferred morning service materially protects the Day-32 Onomichi transfer. Kounotori and Kuroshio are next; Koya, Thunderbird and Hiroshima→Hakata are lower sell-out risks with workable alternatives.
+- The **Day-32 rail chain is now booked through Fukuyama**: Kounotori 12 + Nozomi 25. The remaining Fukuyama → Onomichi local is unreserved.
 - Treat rural bus connections as schedule-dependent, especially in Nikko, Kiso and Kumano.
 - Keep luggage forwarding aligned with the day-by-day sleep locations rather than generic regional bases.
 - Re-check 2026 timetables when the relevant booking windows open; older timetable examples are planning proxies, not guarantees.

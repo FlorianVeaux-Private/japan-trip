@@ -8,45 +8,50 @@
 
 This is the price of adding Kinosaki. It is a real repositioning day from the Sea of Japan side back down to the Seto Inland Sea cycling route.
 
-It fits, but it should be treated as a **travel-first day**. Do not plan a major sightseeing stop en route.
+It fits, but it should be treated as a **travel-first day**. The morning is deliberately protected for the ryokan breakfast, and Onomichi is now only a **short late-afternoon / evening stop** before the Shimanami ride.
 
-### Travel: Kinosaki Onsen to Onomichi (fast route via Himeji)
+### Travel: Kinosaki Onsen to Onomichi (via Shin-Osaka + Fukuyama)
 
-**Committed route — the fast one, via Himeji on the Hamakaze limited express:**
+**Booked route — Kounotori + Sanyo Shinkansen + JR local:**
 
-| Time (approx — verify 2026) |  |
+| Time |  |
 | :---- | :---- |
-| **~08:58** | Limited Express **Hamakaze** departs Kinosaki Onsen → Himeji (~1h30) |
-| ~10:30 | Arrive Himeji. Transfer to Sanyo Shinkansen. |
-| ~10:50 | Sanyo Shinkansen (Hikari / Kodama / Sakura) Himeji → **Fukuyama** (~35–45 min) |
-| ~11:30 | Arrive Fukuyama. Transfer to JR Sanyo Main Line local/rapid. |
-| ~11:45 | Fukuyama → **Onomichi** local train (~20–25 min) |
-| **~12:10** | Arrive **Onomichi** (early afternoon) |
+| **09:33** | Limited Express **Kounotori 12** departs Kinosaki Onsen → Shin-Osaka |
+| **12:29** | Arrive Shin-Osaka |
+| **13:02** | Sanyo Shinkansen **Nozomi 25** departs Shin-Osaka → Fukuyama |
+| **14:03** | Arrive Fukuyama |
+| **14:31** | JR Sanyo Main Line local **4409M** departs Fukuyama → Onomichi |
+| **14:50** | Arrive **Onomichi** |
 
-Total **~3–3.5 hours.**
+Total **5h17**, including 33 min at Shin-Osaka and 28 min at Fukuyama.
 
-⚠️ **The whole day hinges on the morning Hamakaze (~08:58).** Southbound Hamakaze toward Himeji only runs ~2×/day (the other is ~17:17, far too late). If you miss it, the fallback is the slower route via Shin-Osaka (Kounotori LEX ~2h45 → Sanyo Shinkansen → Fukuyama → Onomichi), which is the ~5–6h day. So **book the Hamakaze seat and protect that departure.**
+The first two legs are booked. The final Fukuyama → Onomichi train is an ordinary JR local with no reservation required.
 
-**Onomichi vs Shin-Onomichi — important:** transfer at **Fukuyama** onto the local line to reach regular **Onomichi Station**, which is right by the port, ferry and bike-rental terminal. Do **not** ride the shinkansen through to **Shin-Onomichi** — it's ~3km north of the waterfront with infrequent onward transport.
+**Onomichi vs Shin-Onomichi — important:** transfer at **Fukuyama** onto the local line to reach regular **Onomichi Station**, which is right by the port, ferry and bike-rental terminal. Do **not** ride the Shinkansen through to **Shin-Onomichi**.
 
 ### Morning in Kinosaki
 
-Keep the morning simple:
+Keep the morning deliberately slow enough to enjoy the ryokan:
 
-- Ryokan breakfast  
-- Final bath if timing allows  
-- Short canal walk  
-- Optional **Onsenji / ropeway** only if the train timing is friendly
+- **Ryokan breakfast**
+- Final bath if timing allows
+- Short canal walk
+- Head to Kinosaki Onsen Station with enough margin for the **09:33 Kounotori 12**
 
-Do not let the morning expand too much. The priority is reaching Onomichi in good condition before the Shimanami ride.
+Do not add Onsenji / ropeway this morning. The 09:33 departure is the protected anchor, and the purpose of the morning is breakfast + a final taste of Kinosaki rather than squeezing in another attraction.
 
 ### Evening in Onomichi
 
-- Check in near the port  
-- Short port walk or temple-slope wander if energy allows  
-- Onomichi ramen for dinner  
-- Confirm bike rental pickup for the morning  
-- Confirm the small-bag setup for cycling
+Arrival is **14:50**, so keep this intentionally short before the early Shimanami start tomorrow:
+
+- Check in / drop the small bag
+- Short port / waterfront walk
+- **Onomichi ramen for dinner**
+- Confirm bike rental pickup for the morning
+- Prepare the small-bag setup for cycling
+- Early night
+
+Do **not** plan a full temple-slope circuit or another major Onomichi attraction on Nov 1. The longer Onomichi experience belongs to the cycling day itself.
 
 ### Luggage
 
@@ -54,6 +59,6 @@ Main luggage should already be on its way to Hiroshima from Osaka. Do not try to
 
 ### Notes
 
-**Treat Nov 1 as a logistics/travel day, not a light sightseeing day** — plan on a Kinosaki morning + ~3–3.5h of transit + an Onomichi evening, and nothing more.
+**Treat Nov 1 as a logistics/travel day, not a sightseeing day** — protect the Kinosaki breakfast, accept the long rail transfer, then keep Onomichi to a short arrival evening before the Shimanami ride.
 
-With the morning Hamakaze caught, the transfer is only ~3–3.5h. From here the trip runs westward — Shimanami, Matsuyama, Hiroshima, Miyajima, Fukuoka — so Nov 2 starting from Onomichi sets up the whole finish.
+The **14:50 Onomichi arrival** gives enough time for check-in, dinner, bike preparation and sleep without pretending there is room for a substantial sightseeing block.

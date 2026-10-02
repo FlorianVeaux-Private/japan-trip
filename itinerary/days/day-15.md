@@ -3,6 +3,10 @@
 **Sleep:** Kyoto  
 Activities: “Incense experience” or “kintsugy repair workshop”
 
+### Nintendo KYOTO
+
+Add **Nintendo KYOTO** at Kyoto Takashimaya S.C. to this first full Kyoto day, ideally after the main daytime activity / in the afternoon.
+
 Detailed Kyoto planning will come later. This is the first full Kyoto day.
 
 **Planning principle:**  

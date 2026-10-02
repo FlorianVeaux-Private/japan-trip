@@ -9,8 +9,7 @@ This day combines a forested shrine morning with Harajuku and modern/pop-culture
 - **Meiji Jingu** in the morning
 - **Harajuku**
 - **Shibuya crossing / Hachiko**
-- **Nintendo TOKYO** at Shibuya PARCO
-- Optional **UNIQLO** shopping
+- - Optional **UNIQLO** shopping
 - Casual food and evening in Shibuya or a nearby calmer neighborhood
 
 ### Recommended skeleton

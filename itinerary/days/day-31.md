@@ -6,7 +6,7 @@
 
 ### Travel: Osaka to Kinosaki Onsen
 
-Use the JR limited express **Kounotori** from Shin-Osaka toward **Kinosaki Onsen** — **~2h45** (note only ~6 of the daily Kounotori run all the way to Kinosaki; others terminate at Fukuchiyama and need a transfer). Reserve seats in advance.
+**Booked:** JR-WEST ONLINE TRAIN RESERVATION, **Kounotori 1**, Osaka **08:12 → Kinosaki Onsen 10:58**, 2 adults, ordinary reserved non-smoking, **Car 2 seats 13A/13B**. Reservation details are stored in **1Password**.
 
 This is also the day to send main luggage onward.
 

@@ -11,6 +11,7 @@ This is the one full Takayama day, so keep it focused.
 - Miyagawa Morning Market  
 - Sanmachi old merchant district  
 - Takayama Jinya  
+- **Natural decorative manhole cover — Nakabashi Park**  
 - Sake breweries  
 - Craft and woodwork shops  
 - Hida beef lunch or dinner
@@ -18,6 +19,10 @@ This is the one full Takayama day, so keep it focused.
 ### Poké Lid — Takayama
 
 Add the Takayama Poké Lid while walking the old-town core; it is at **36.144911, 137.257235** (Pansage / Pansear / Panpour). Allow **~15–20 min** including the short walk/photo stop. It replaces filler walking rather than adding a new destination.
+
+### Decorative manhole cover — Takayama
+
+The city-centre colored cover uses **Kobano mitsubatsutsuji** (the city's flower) as its motif. The **Nakabashi Park** installation sits naturally between Takayama Jinya and the old-town core, so allow only a few minutes to photograph it. Do not add a separate search loop.
 
 **Why 2 nights is enough here:**  
 Takayama is excellent, but the Kiso Valley post towns already cover the "traditional mountain town / preserved architecture" register. Two nights — a half-day festival arrival on Day 10 plus one full day here — keeps it meaningful without overdoing it.

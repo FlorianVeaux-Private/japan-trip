@@ -18,6 +18,10 @@ This is the proper Nachi finale of the Kumano section. Saving Nachi for this day
 - Return by bus to Kii-Katsuura  
 - Afternoon/evening recovery: harbor walk, tuna / seafood dinner, onsen if staying somewhere with baths
 
+### Poké Lid — Nachikatsuura
+
+Add the **Celebi** Poké Lid at **33.668973, 135.902917** to the Nachi day. Collect it on the return/arrival leg rather than creating a separate excursion. Budget **~15–20 min**.
+
 ### Notes
 
 This should be treated as the emotional finish of the Kumano section. Do not rush onward to Osaka today.

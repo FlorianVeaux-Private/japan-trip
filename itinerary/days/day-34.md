@@ -23,6 +23,12 @@ Approximately **30–35 km**. The shorter second day is intentional: after a lon
 
 After returning the bikes at **i.i.imabari! Cycle Station beside JR Imabari Station**, take the **JR Yosan Line limited express (Shiokaze / Ishizuchi) to Matsuyama, ~40 min**. The station-side bike return means there is no separate transfer from the cycling terminal; check the departure before finishing the ride and keep a reasonable buffer for the bike return.
 
+### Poké Lids — Matsuyama
+
+The **Okaido** plaque (Tsareena / Bounsweet — **33.841060, 132.770240**) is essentially on the evening central-Matsuyama route, so make it a **10–15 min** photo stop if energy allows.
+
+The second plaque, **Escavalier / Sirfetch'd — 33.844260, 132.740780**, is at Matsuyama Sogo Park. It is a worthwhile park/viewpoint but is **not** worth forcing after a 30–35 km cycling day; treat it as optional only if you still want a short evening outing. The city confirms both locations, including the Sogo Park viewpoint. citeturn1search0turn1search4
+
 ### Evening in Matsuyama
 
 This is a soft landing after the Shimanami ride, not a sightseeing sprint. The goal is simply to arrive, recover and eat well — expect low energy after the ride plus the transfer, so don't force any activity on arrival.

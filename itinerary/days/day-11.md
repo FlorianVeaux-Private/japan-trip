@@ -15,5 +15,9 @@ This is the one full Takayama day, so keep it focused.
 - Craft and woodwork shops  
 - Hida beef lunch or dinner
 
+### Poké Lid — Takayama
+
+Add the Takayama Poké Lid while walking the old-town core; it is at **36.144911, 137.257235** (Pansage / Pansear / Panpour). Allow **~15–20 min** including the short walk/photo stop. It replaces filler walking rather than adding a new destination.
+
 **Why 2 nights is enough here:**  
 Takayama is excellent, but the Kiso Valley post towns already cover the "traditional mountain town / preserved architecture" register. Two nights — a half-day festival arrival on Day 10 plus one full day here — keeps it meaningful without overdoing it.

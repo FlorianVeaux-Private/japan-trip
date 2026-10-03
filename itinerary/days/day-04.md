@@ -10,6 +10,7 @@ Final full Tokyo day before Nikko. This day is about digital art, Akihabara and 
 - Recovery break / lunch
 - **Kanda Myojin** as an optional stop
 - **Akihabara**
+- **Ueno — 2 Poké Lids**
 - **Pokémon Card shopping**
 - **Pokémon Center**
 - Casual dinner
@@ -23,8 +24,18 @@ Final full Tokyo day before Nikko. This day is about digital art, Akihabara and 
 3. Kanda Myojin if convenient
 4. Akihabara
 5. Pokémon Card shopping
-6. Pokémon Center
-7. Dinner
+6. Ueno — 2 Poké Lids
+7. Pokémon Center
+8. Dinner
+
+### Poké Lids — Ueno
+
+Two Poké Lids are easy to add after Akihabara, without creating a Pokémon-only detour:
+
+- **Tyrunt / Wynaut** — 35.716810, 139.776399
+- **Baltoy / Bronzor** — 35.717715, 139.775397
+
+Treat the two plaques as a short Ueno walking loop rather than a separate sightseeing stop. If the timing gets tight, skip them rather than cutting the real Akihabara / Pokémon shopping time.
 
 ### Filler options depending on mood
 

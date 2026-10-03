@@ -8,14 +8,16 @@
 
 | Time |  |
 | :---- | :---- |
-| ~09:40 | Kintetsu Nara → Osaka-Namba (~45 min) |
-| ~10:25 | Arrive Osaka-Namba. Walk to Nankai Namba (~10–15 min). |
-| ~10:50 | Nankai limited express "Koya" departs Namba → Gokurakubashi (~80 min, reserved seat + ltd exp surcharge) |
-| ~12:10 | Arrive Gokurakubashi. Cable car up (~5 min). |
-| ~12:20 | Bus from Koyasan cable car station into town (~15 min) |
-| ~12:40 | Arrive **Koyasan** (around lunchtime) |
+| **08:26** | Kintetsu Nara → Osaka-Namba (Rapid Express, ~39 min; no reservation) |
+| **09:05** | Arrive Osaka-Namba; transfer to Nankai Namba |
+| **10:00** | **Nankai Limited Express Koya 5** departs Namba → Gokurakubashi (reserved seat; included with Koyasan World Heritage Digital Ticket) |
+| **11:31** | Arrive Gokurakubashi |
+| **11:42** | Nankai cable car → Koyasan (~5 min; no reservation) |
+| **~11:47** | Arrive Koyasan Station |
+| **11:57** | Nankai Rinkan bus → Benten-mae |
+| **12:08** | Arrive Benten-mae; walk to **Sainan-in** |
 
-Total: **~3h from Nara.** Route: Kintetsu Nara → Osaka-Namba, walk to Nankai Namba, Nankai Koya Line limited express → Gokurakubashi, cable car, local bus. Morning *direct* Namba limited expresses are limited — verify the exact 2026 departure (a Rapid Express also works if no ltd exp lines up), and reserve the limited-express seat. The Koyasan World Heritage Ticket covers the Nankai legs + buses.
+Total: **~3h40 from Kintetsu-Nara to Sainan-in.** This is the planned connection for Oct 22, 2026. The Kintetsu leg and Koyasan cable car/bus do not need advance seat reservations; reserve the **Koya 5 at 10:00**. The Koyasan World Heritage Digital Ticket covers the Nankai rail journey, cable car and Koyasan buses.
 
 ### Poké Lid — Koyasan
 

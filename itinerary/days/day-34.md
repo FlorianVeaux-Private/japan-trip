@@ -29,6 +29,10 @@ The **Okaido** plaque (Tsareena / Bounsweet — **33.841060, 132.770240**) is es
 
 The second plaque, **Escavalier / Sirfetch'd — 33.844260, 132.740780**, is at Matsuyama Sogo Park. It is a worthwhile park/viewpoint but is **not** worth forcing after a 30–35 km cycling day; treat it as optional only if you still want a short evening outing. The city confirms both locations, including the Sogo Park viewpoint. citeturn1search0turn1search4
 
+### Decorative manhole cover — Matsuyama
+
+The central Matsuyama colored cover uses the **Yabutsubaki camellia** and an **Iyo-kasuri** motif. Keep an eye out for it during the easy Okaido / central-Matsuyama stroll after checking in. This is a **5–10 min opportunistic photo stop**, not another destination; after 30–35 km of cycling, skip it if you are tired.
+
 ### Evening in Matsuyama
 
 This is a soft landing after the Shimanami ride, not a sightseeing sprint. The goal is simply to arrive, recover and eat well — expect low energy after the ride plus the transfer, so don't force any activity on arrival.
@@ -36,7 +40,7 @@ This is a soft landing after the Shimanami ride, not a sightseeing sprint. The g
 **Suggested flow:**
 
 - Check in and recover from the ride  
-- Easy stroll around central Matsuyama (Okaido / Gintengai arcades)  
+- Easy stroll around central Matsuyama (Okaido / Gintengai arcades), including the decorative manhole if convenient  
 - Dinner: tai-meshi or local Ehime seafood  
 - Early night
 

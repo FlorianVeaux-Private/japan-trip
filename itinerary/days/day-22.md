@@ -17,6 +17,10 @@
 
 Total: **~3h from Nara.** Route: Kintetsu Nara → Osaka-Namba, walk to Nankai Namba, Nankai Koya Line limited express → Gokurakubashi, cable car, local bus. Morning *direct* Namba limited expresses are limited — verify the exact 2026 departure (a Rapid Express also works if no ltd exp lines up), and reserve the limited-express seat. The Koyasan World Heritage Ticket covers the Nankai legs + buses.
 
+### Poké Lid — Koyasan
+
+Collect the **Urshifu** Poké Lid at **34.212091, 135.583052** during the afternoon Koyasan town walk. It fits naturally into the existing central-Koyasan sightseeing loop; budget **~15–20 min** and do not add a separate transport leg.
+
 ### Plan
 
 - Arrive around lunchtime — afternoon available  

@@ -27,5 +27,14 @@ Uji is an added day trip. It gives tea culture, riverside atmosphere and importa
 >   
 >   **Nintendo Museum is NOT on this day** — see the separate half-day callout below. It's near Ogura Station (~2km from central Uji) and needs 2–4 hours, so it doesn't fit the Uji day.
 
+### Poké Lids — Uji
+
+The two central Uji plaques fit directly into this day:
+
+- Scorbunny / Spinda — **34.890627, 135.809787**
+- Poltchageist / Sinistcha — **34.895547, 135.805962**
+
+Allow **~20–30 min total** as part of the Uji walk. The Nintendo Museum Pikachu plaque is intentionally saved for Day 19 because it requires the museum visit.
+
 **Why it fits:**  
 It adds a different kind of traditional culture from Kyoto itself: tea, river, Heian-era atmosphere, and a calmer town scale.

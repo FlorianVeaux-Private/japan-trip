@@ -29,6 +29,15 @@ This is the Tokyo food-and-museum day: an early market start followed by Ueno Pa
 - **Ueno Park** — take a relaxed walk between the station and museum rather than treating it as a separate major attraction.
 - **Extra casual food stops** — sushi, tempura, soba, melonpan, taiyaki, matcha sweets, or convenience-store dessert scouting.
 
+### Poké Lid — Ueno
+
+Use the Ueno leg to collect both nearby Poké Lids. They are in/around Ueno Park, so this should cost only **~20–30 min**, not a separate outing:
+
+- Tyrunt / Wynaut — **35.716810, 139.776399**
+- Baltoy / Bronzor — **35.717715, 139.775397**
+
+Best slot: immediately around the Tokyo National Museum / Ueno Park portion. **Do not return to Ueno later just for these.**
+
 ### Notes
 
 The Tokyo National Museum is the main destination after Tsukiji. Do not overload this day with another major museum or distant neighborhood.

@@ -19,5 +19,9 @@ You have a **Day 12 afternoon plus this full day** in Kanazawa. Focus on the bes
 - 21st Century Museum if you want an art dose  
 - Myoryuji / Ninja Temple if booked in advance
 
+### Poké Lid — Kanazawa
+
+Collect the Kanazawa Poké Lid while moving between the central sights: **Milotic — 36.559162, 136.661926**. Budget **~15–20 min** as a walking/photo stop; do not create a separate cross-city trip for it.
+
 **Why 2 nights is enough here:**  
 Kanazawa is refined and rewarding, but its core sights are compact. A midday arrival + afternoon (Day 12) plus one full day (Day 13) is a good fit for this itinerary.

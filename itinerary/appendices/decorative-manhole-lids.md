@@ -10,7 +10,7 @@ The goal is to collect the particularly good **full-color decorative manhole cov
 | 11 | Takayama | Kobano mitsubatsutsuji flowers + foliage | Nakabashi Park | Directly between Takayama Jinya and the old town |
 | 21 | Nara | Sika deer + yaezakura cherry blossoms | South of Kintetsu Nara Station | Natural start/end point for the Nara Park / Naramachi day |
 | 29 | Himeji | Sagisou orchid + water | Otemae-dori, between Himeji Station and Himeji Castle | Directly on the castle approach |
-| 34 | Matsuyama | Yamatsubaki camellia + Iyo-kasuri motif | Central Matsuyama / Dogo area | Opportunistic on the evening route; no dedicated detour |
+| 34 | Matsuyama | Yabutsubaki camellia + Iyo-kasuri motif | Central Matsuyama / Okaido area | Opportunistic on the evening route; no dedicated detour |
 | 35 | Hiroshima | Maple leaves + carp in water | Hiroshima Castle area | Optional bonus only; do not displace the Peace Memorial itinerary |
 
 ## Rules for the trip
@@ -28,4 +28,3 @@ The goal is to collect the particularly good **full-color decorative manhole cov
 **Good but opportunistic:** Matsuyama.
 
 **Optional:** Hiroshima — keep this secondary to the Peace Memorial Park / museum day.
-

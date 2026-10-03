@@ -4,7 +4,7 @@ Book these early:
 
 1. **Kounotori Osaka → Kinosaki (Oct 31)** — high priority because the plan specifically needs a through service to Kinosaki; not an emergency, but reserve once the window opens.  
 2. **Kuroshio Kii-Katsuura → Osaka (Oct 28)** — medium-high priority; several services exist, so sell-out is not a major concern, but a reserved seat makes the long post-Kumano transfer predictable.  
-3. **Koya Limited Express → Koyasan (Oct 22)** — medium priority; reserve if you specifically want the Limited Express. Ordinary Nankai trains are a perfectly good fallback.  
+3. **Koya Limited Express → Koyasan (Oct 22)** — reserve the **Koya 5 at 10:00 from Namba to Gokurakubashi**; the itinerary is built around this connection. The Koyasan World Heritage Digital Ticket includes the Limited Express, cable car and Koyasan buses.  
 4. **Thunderbird Kanazawa → Kyoto (Oct 14)** — medium priority; reserve for convenience, but there are alternative connections if needed.  
 5. **Hiroshima → Hakata Shinkansen (Nov 6)** — medium priority; book before the international ferry because the consequence of a missed connection is high, not because sell-out is especially likely.  
 6. Verify Miyajima ropeway operational status before departure
@@ -34,7 +34,7 @@ Book these early:
 - [ ] **Kounotori (Oct 31)** — reserve a through Osaka → Kinosaki service when the Oct 1 window opens. If the preferred train is unavailable, adjust departure rather than the destination.
 - [ ] **Kuroshio (Oct 28)** — reserve when the Sep 28 window opens; several services exist, so this is convenience rather than a likely trip-breaking sell-out.
 - [x] **Kanazawa → Kyoto (Oct 14)** — confirmed. **Tsurugi 13, Kanazawa 09:05 → Tsuruga 10:01; Thunderbird 14, Tsuruga 10:14 → Kyoto 11:09.** 2 adults, ordinary reserved seats. **Booking details stored in 1Password.**
-- [ ] **Koya Limited Express (Oct 22)** — reserve when the Sep 22 window opens if you want the Limited Express; ordinary Nankai trains are the fallback.
+- [ ] **Koya Limited Express (Oct 22)** — reserve **Koya 5, Namba 10:00 → Gokurakubashi 11:31**. Prefer the Koyasan World Heritage Digital Ticket with Limited Express included.
 - [ ] **Hiroshima → Hakata Shinkansen (Nov 6)** — reserve when the Oct 6 window opens, before the international ferry.
 - [ ] **Tea ceremony (Uji/Kyoto)** — reserve ahead for the target day if you want a specific provider/time.
 

@@ -2,7 +2,7 @@
 
 Book these early:
 
-1. **Kounotori Osaka → Kinosaki (Oct 31)** — high priority because the plan specifically needs a through service to Kinosaki; not an emergency, but reserve once the window opens.  
+1. **Kounotori Osaka → Kinosaki (Oct 31)** — **confirmed: Kounotori 1, Osaka 08:12 → Kinosaki Onsen 10:58; details stored in 1Password.**  
 2. **Kuroshio Kii-Katsuura → Osaka (Oct 28)** — medium-high priority; several services exist, so sell-out is not a major concern, but a reserved seat makes the long post-Kumano transfer predictable.  
 3. **Koya Limited Express → Koyasan (Oct 22)** — **confirmed: Koya 1 at 10:00 from Namba to Gokurakubashi, 2 adults, Car 4 seats 23/24.** The Limited Express ticket is already purchased; basic fares remain separate.  
 4. **Thunderbird Kanazawa → Kyoto (Oct 14)** — medium priority; reserve for convenience, but there are alternative connections if needed.  
@@ -31,7 +31,7 @@ Book these early:
 - [x] **Takayama → Kanazawa (Oct 12)** — **confirmed via Japan Bus Online.** Direct 07:50 service was full, so booked the two-leg Shirakawa-go connection instead: Reservation **09132030171**, Takayama Nohi Bus Center **07:20 → Shirakawa-go (Ogimachi) 08:10**, seats **3D/3C**; then Reservation **09132029501**, Shirakawa-go (Ogimachi) **10:25 → Kanazawa Station West Exit Bus Stop No.4 11:50**, seats **02B/02A**. 2 adults; ¥5,600 per reservation, **¥11,200 total**.
 - [x] **teamLab Borderless (Oct 4)** — confirmed for **Sun Oct 4, 09:00–09:30**, 2 adults. Ticket details stored in **1Password**.
 - [x] **Kinosaki → Fukuyama (Nov 1)** — **booked.** 2 adults: **Kounotori 12 09:33 → 12:29 Shin-Osaka + Nozomi 25 13:02 → 14:03 Fukuyama**. The final Fukuyama → Onomichi local is unreserved and does not need advance booking.
-- [ ] **Kounotori (Oct 31)** — reserve a through Osaka → Kinosaki service when the Oct 1 window opens. If the preferred train is unavailable, adjust departure rather than the destination.
+- [x] **Kounotori 1 (Oct 31)** — **confirmed.** Osaka **08:12 → Kinosaki Onsen 10:58**; 2 adults, ordinary reserved non-smoking, Car 2 seats **13A/13B**. Reservation details stored in **1Password**.
 - [ ] **Kuroshio (Oct 28)** — reserve when the Sep 28 window opens; several services exist, so this is convenience rather than a likely trip-breaking sell-out.
 - [x] **Kanazawa → Kyoto (Oct 14)** — confirmed. **Tsurugi 13, Kanazawa 09:05 → Tsuruga 10:01; Thunderbird 14, Tsuruga 10:14 → Kyoto 11:09.** 2 adults, ordinary reserved seats. **Booking details stored in 1Password.**
 - [x] **Koya Limited Express (Oct 22)** — **confirmed: Koya 1, Namba 10:00 → Gokurakubashi 11:31; 2 adults, Car 4 seats 23/24.** Limited Express ticket already purchased. Pay Kintetsu and Nankai basic fares by IC; buy the cable car ticket at Gokurakubashi; use IC for the Koyasan-area Rinkan bus. No Koyasan World Heritage Digital Ticket needed.
@@ -58,7 +58,7 @@ Rail seats can't be reserved until the relevant booking window opens. JR reserve
 | **Sep 14 10:00** | Sep 14 10:00 | **Thunderbird** → Kyoto (Oct 14) | Convenience; alternatives exist. |
 | **Sep 22 10:00** | Sep 22 10:00 | Nankai Kōya ltd exp → Koyasan (Oct 22) | **Booked: Koya 1, 10:00 → 11:31; 2 adults, Car 4 seats 23/24.** |
 | **Sep 28 10:00** | Sep 28 10:00 | **Kuroshio** Kii-Katsuura → Osaka (Oct 28) | Several services exist; reserve for predictability after Kumano. |
-| **Oct 1 10:00** | Oct 1 10:00 | **Kōnotori** Osaka → Kinosaki (Oct 31) | Through service preferred; book when window opens. |
+| **Oct 1 10:00** | Oct 1 10:00 | **Kōnotori** Osaka → Kinosaki (Oct 31) | **Booked: Kounotori 1, 08:12 → 10:58.** |
 | **Oct 6 10:00** | Oct 6 10:00 | Shinkansen Hiroshima → Hakata (Nov 6) | Book before ferry; low sell-out risk. |
 
 ---

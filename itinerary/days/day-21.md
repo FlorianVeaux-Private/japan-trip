@@ -11,11 +11,16 @@ Kyoto → Nara is easy by JR or Kintetsu train. Kintetsu Nara Station is usually
 ### Plan
 
 - Travel Kyoto → Nara in the morning  
+- **Natural decorative manhole cover — south of Kintetsu Nara Station**  
 - Todai-ji  
 - Nigatsu-do  
 - Kasuga Taisha  
 - Nara Park  
 - Evening in Naramachi after day-trippers leave
+
+### Decorative manhole cover — Nara
+
+The colored cover depicts a **sika deer and yaezakura cherry blossoms**. Its location south of Kintetsu Nara Station makes it a natural early stop on the way into the Nara Park area. Give it a few minutes and keep moving; it is not worth backtracking for.
 
 **Why overnight in Nara:**  
 Nara is more atmospheric early and late. Staying overnight helps avoid the day-trip crowd rhythm.

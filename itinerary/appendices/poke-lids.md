@@ -6,6 +6,8 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 
 | Day | Place | Poké Lid | Coordinates | Integration |
 | :--: | :-- | :-- | :-- | :-- |
+| 4 | Ueno | Tyrunt / Wynaut | 35.716810, 139.776399 | Short walking loop after Akihabara |
+| 4 | Ueno | Baltoy / Bronzor | 35.717715, 139.775397 | Short walking loop after Akihabara |
 | 11 | Takayama | Pansage / Pansear / Panpour | 36.144911, 137.257235 | Old-town walking loop |
 | 13 | Kanazawa | Milotic | 36.559162, 136.661926 | Central Kanazawa sightseeing |
 | 17 | Kyoto — Higashiyama | Pichu / Cleffa / Igglybuff | 35.003370, 135.780573 | Higashiyama → Okazaki |

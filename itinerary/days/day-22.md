@@ -10,14 +10,14 @@
 | :---- | :---- |
 | **08:26** | Kintetsu Nara → Osaka-Namba (Rapid Express, ~39 min; no reservation) |
 | **09:05** | Arrive Osaka-Namba; transfer to Nankai Namba |
-| **10:00** | **Nankai Limited Express Koya 5** departs Namba → Gokurakubashi (reserved seat; included with Koyasan World Heritage Digital Ticket) |
+| **10:00** | **Nankai Limited Express Koya 1** departs Namba → Gokurakubashi (reserved seat; Limited Express ticket already booked) |
 | **11:31** | Arrive Gokurakubashi |
 | **11:42** | Nankai cable car → Koyasan (~5 min; no reservation) |
 | **~11:47** | Arrive Koyasan Station |
 | **11:57** | Nankai Rinkan bus → Benten-mae |
 | **12:08** | Arrive Benten-mae; walk to **Sainan-in** |
 
-Total: **~3h40 from Kintetsu-Nara to Sainan-in.** This is the planned connection for Oct 22, 2026. The Kintetsu leg and Koyasan cable car/bus do not need advance seat reservations; reserve the **Koya 5 at 10:00**. The Koyasan World Heritage Digital Ticket covers the Nankai rail journey, cable car and Koyasan buses.
+Total: **~3h40 from Kintetsu-Nara to Sainan-in.** This is the planned connection for Oct 22, 2026. The Kintetsu leg, Nankai basic fare, Koyasan cable car and local bus do not need advance seat reservations. Pay the Kintetsu and Nankai basic fares by IC; buy the cable car ticket at Gokurakubashi; the Koyasan-area Rinkan bus accepts IC. No Koyasan World Heritage Digital Ticket is needed for this itinerary.
 
 ### Poké Lid — Koyasan
 

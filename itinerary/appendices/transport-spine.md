@@ -14,7 +14,7 @@ This section summarizes every major move between bases.
 | 14 | Kanazawa → Kyoto | **Hokuriku Shinkansen + Thunderbird via Tsuruga** | Easy/moderate | **Booked: Tsurugi 13, Kanazawa 09:05 → Tsuruga 10:01; Thunderbird 14, Tsuruga 10:14 → Kyoto 11:09. 2 adults, ordinary reserved seats.** |
 | 17 | Kyoto → Uji → Kyoto | JR or Keihan local train | Easy | About 20–40 minutes each way. |
 | 21 | Kyoto → Nara | JR or Kintetsu train | Easy | About 35–50 minutes; Kintetsu is convenient for Nara Park. |
-| 22 | Nara/Osaka area → Koyasan | Kintetsu + **Nankai Koya 5** + cable car + bus | Moderate | **Planned: Kintetsu Nara 08:26 → Osaka-Namba 09:05; Koya 5 10:00 → Gokurakubashi 11:31; cable 11:42; bus 11:57 → Benten-mae 12:08. Reserve Koya 5; other legs unreserved.** |
+| 22 | Nara/Osaka area → Koyasan | Kintetsu + **Nankai Koya 1** + cable car + bus | Moderate | **Planned: Kintetsu Nara 08:26 → Osaka-Namba 09:05; Koya 1 10:00 → Gokurakubashi 11:31; cable 11:42; bus 11:57 → Benten-mae 12:08. Limited Express booked: 2 adults, Car 4 seats 23/24. Basic fares use IC; cable car ticket is bought at Gokurakubashi; Koyasan-area bus uses IC. No Digital Ticket needed.** |
 | 23 | Koyasan → Kii-Tanabe | Bus | Moderate | Repositioning day; no hiking. |
 | 24 | Kii-Tanabe → Takijiri-oji → Chikatsuyu / Tsugizakura area | Local bus + hiking | Active | First real Kumano walking day. |
 | 25 | Chikatsuyu / Tsugizakura area → Hongu → Yunomine | Hiking + short local transfer if needed | Active/hard | Main pilgrimage day; reach Hongu mostly on foot, then onsen night. |

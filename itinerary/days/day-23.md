@@ -22,6 +22,14 @@ Total: **~3.5h from Koyasan** (booked bus, 09:36 → 13:05).
 
 **Note:** the booked 09:36 departure makes the temple morning **tight, not leisurely** — after prayer (~6:00) and breakfast (~7:00) you need to be at the bus stop by ~09:20. This is a **seasonal bus** (runs Apr–Nov, suspended Tue/Wed); Oct 23 is a Friday so it's fine, but it's a single service with a cross-company transfer and no same-day backup — the booking is confirmed, just reconfirm the 2026 time before travel.
 
+### Poké Lid side trip — Shirahama
+
+The afternoon in Kii-Tanabe is the cleanest place to add the **Shirahama** Poké Lid: **Pancham / Finizen — 33.675779, 135.387056**, installed on the sidewalk directly in front of **JR Shirahama Station**. JR schedules show direct Kii-Tanabe ↔ Shirahama services, so this is a small rail side trip rather than a Kumano detour. citeturn0search24turn0search1
+
+**Target window:** roughly **14:00–17:30**, including the train, plaque, and optionally Toretore Market/seafood if the timing works. The exact Oct 23 service should be rechecked against the live JR timetable before going.
+
+This is the one Kumano-area Poké Lid worth actively planning. **Do not add Kushimoto later just for another plaque.**
+
 ### Plan
 
 - Temple morning prayer (~6:00am) and temple breakfast  

@@ -12,7 +12,7 @@ This is an early-morning departure from Matsuyama followed by the focused Hirosh
 
 - Early breakfast in central Matsuyama  
 - **No Matsuyama Castle visit this morning:** the booked ferry leaves too early for the previous ~09:00–10:30 castle plan.  
-- Transfer to Matsuyama Kanko Port in time for the booked ferry  
+- Transfer to Matsuyama Kanko Port in time for the booked ferry
 
 ### Travel: Matsuyama → Hiroshima
 
@@ -28,6 +28,10 @@ This is an early-morning departure from Matsuyama followed by the focused Hirosh
 4. Local transport or taxi to the hotel  
 5. **Peace Memorial Park + A-Bomb Dome + Peace Memorial Museum** in the afternoon, with enough time to pause afterward  
 6. Simple Hiroshima-style okonomiyaki dinner
+
+### Decorative manhole cover — Hiroshima
+
+If energy remains **after** the Peace Memorial Park / museum block, make the **Hiroshima Castle area** an optional short bonus for the **maple leaves + carp in water** colored manhole cover. Do not restructure the day around it and do not sacrifice museum time; this is specifically a "spot it if already heading north" addition.
 
 ### Notes
 

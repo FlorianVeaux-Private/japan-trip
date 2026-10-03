@@ -60,7 +60,7 @@ Planning estimate for 2 adults. Japan-only transport excludes the Hakata → Bus
 | Hongu / Yunomine → Shingu | Bus | ~¥2,000 | ~¥4,000 | Estimate |
 | Shingu → Kii-Katsuura | JR local | ~¥250 | ~¥500 | Estimate |
 | Kii-Katsuura / Nachi | Local buses | ~¥2,000 | ~¥4,000 | Estimate |
-| Kii-Katsuura → Osaka | JR limited express | ~¥6,500 | ~¥13,000 | Estimate |
+| Kii-Katsuura → Osaka | JR limited express Kuroshio 22 | ¥7,460 | ¥14,920 | Confirmed |
 | Osaka local | Metro / JR | ~¥2,000 | ~¥4,000 | Estimate |
 | Osaka ↔ Himeji | JR | ~¥3,000 | ~¥6,000 | Estimate |
 | Osaka → Kinosaki | Limited Express Kounotori | ¥6,140 | ¥12,280 | Current fare |

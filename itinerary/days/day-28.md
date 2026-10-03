@@ -6,14 +6,15 @@
 
 ### Travel: Kii-Katsuura to Osaka
 
-Take the JR limited express route back toward Osaka. This is a long but straightforward exit from the Kii Peninsula.  
-4h direct train
+**Booked:** JR-WEST ONLINE TRAIN RESERVATION, **Kuroshio 22**, Kii-Katsuura **11:49 → Osaka 15:46**, 2 adults, ordinary reserved non-smoking, **Car 3 seats 5C/5D**. Reservation No. **40003**. Ticket reception requires the physical credit card used for payment and the 4-digit identification number.
+
+This is a long but straightforward direct exit from the Kii Peninsula.
 
 ### Plan
 
 - Slow morning in Kii-Katsuura  
 - Optional harbor walk, tuna breakfast, or relaxed hotel/onsen morning  
-- Train to Osaka  
+- **11:49 Kuroshio 22 → 15:46 Osaka**  
 - Check in  
 - Laundry if needed  
 - Simple dinner  

@@ -102,3 +102,4 @@ The itinerary is split into small Markdown files so individual sections can be e
 - [Condensed travel and transport spine](appendices/transport-spine.md)
 - [Luggage strategy](appendices/luggage-strategy.md)
 - [Booking priorities](appendices/booking-priorities.md)
+- [Poké Lid integration](appendices/poke-lids.md)

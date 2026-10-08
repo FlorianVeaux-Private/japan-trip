@@ -31,6 +31,12 @@ Private confirmation URLs, authentication tokens, reservation numbers, payment d
 
 **Confirmed accommodation total:** €3,851 plus ¥38,000 for Koyasan, including the Sep 30 pre-trip night.
 
+## Confirmed restaurant reservations
+
+| Date | Time | Restaurant | Details |
+| :---- | :---- | :---- | :---- |
+| Sun Oct 18 | 12:00 (noon) | Michelin-starred restaurant — name not yet recorded | Reservation confirmed; add restaurant name, address, and booking details when available. |
+
 ## Estimated transport budget
 
 Planning estimate for 2 adults. Japan-only transport excludes the Hakata → Busan ferry, which is listed separately below. Amounts marked as estimates are planning allowances rather than confirmed fares.

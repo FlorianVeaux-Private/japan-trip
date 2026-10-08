@@ -2,7 +2,11 @@
 
 **Sleep:** Kyoto
 
-Third full Kyoto day.
+### Fixed reservation — Michelin-starred lunch
+
+- **Sunday, Oct 18 at 12:00 (noon)** — Michelin-starred restaurant reservation confirmed.
+- **Restaurant name and address:** not yet recorded here; add these when available.
+- Keep the late morning and early afternoon clear around the reservation. The exact Kyoto route may need adjusting once the restaurant location is known.
 
 ### Poké Lid — Arashiyama
 
@@ -10,6 +14,6 @@ Collect the **Ho-Oh** Poké Lid at **35.011863, 135.678745** while doing the Ara
 
 Possible later use:
 
-- Arashiyama early  
-- Sagano area  
-- quieter afternoon away from the busiest streets
+- Arashiyama early
+- Sagano area
+- Quieter afternoon away from the busiest streets

@@ -1,40 +1,20 @@
-## Day 16 — Oct 16 (Fri) — Uji day trip from Kyoto
+## Day 16 — Oct 16 (Fri) — Kyoto + Michelin-starred lunch
 
 **Sleep:** Kyoto
 
-*On a Friday to keep the Uji day off the busier Saturday at Byodoin and the ramen shop.*
+### Fixed reservation — Kikunoi Honten
 
-### Travel: Kyoto to Uji
-
-Kyoto → Uji is an easy local train trip. You can use either JR or Keihan depending on where you are staying in Kyoto. Expect roughly **20–40 minutes** each way.
+- **Friday, Oct 16 at 12:00 (noon)** — confirmed for **2 adults**, Japanese-style room seating.
+- **Address:** 459 Shimokawara-cho, Yasakatoriimae-sagaru, Shimokawara-dori, Higashiyama-ku, Kyoto 605-0825.
+- **Menu:** course at **¥37,950 per person** (2 courses); beverages and additional orders are not included.
+- Arrive **5 minutes early**. Arrival more than 15 minutes late results in cancellation without a refund.
+- **Dress code:** smart casual. No T-shirts, shorts, athletic wear or beach sandals. Shoes are removed on entry, so wear or bring socks.
+- **No perfume, cologne or scented deodorant.** No allergies or dietary restrictions were declared in the booking.
+- For any delay, change or cancellation, contact **My Concierge Japan** by replying to the confirmation email; do not contact the restaurant directly. Changes/cancellations must be requested by 15:00 JST on Oct 13 to fall within the stated 3-day deadline.
 
 ### Plan
 
-Uji is an added day trip. It gives tea culture, riverside atmosphere and important temple history without adding a hotel change.
+Keep the late morning and early afternoon clear around lunch. Once the restaurant visit is finished, choose nearby Higashiyama / Gion sightseeing depending on energy and the actual end time. Avoid booking another fixed-time activity on this day.
 
-**Suggested day (deliberately overpacked — pick what you want on the day):**
+Uji is moved to **Monday, Oct 19**, combined with the Nintendo Museum booking.
 
-- Morning train Kyoto → Uji  
-- Byodoin Temple  
-- Ujigami Shrine  
-- Riverside walk along the Uji River  
-- Matcha / tea shops / tea sweets  
-- **TEA CEREMONY** — book ahead; peak autumn slots fill  
-- **MENYA INOICHI RAMEN** — use the **Uji branch (Menya Inoichi #3)**, ~5 min from Uji Station (Michelin Bib Gourmand); there are 3 branches, so specify this one  
-- Optional Tale of Genji Museum if interested  
-- Return to Kyoto late afternoon
-
->   
->   **Nintendo Museum is NOT on this day** — see the separate half-day callout below. It's near Ogura Station (~2km from central Uji) and needs 2–4 hours, so it doesn't fit the Uji day.
-
-### Poké Lids — Uji
-
-The two central Uji plaques fit directly into this day:
-
-- Scorbunny / Spinda — **34.890627, 135.809787**
-- Poltchageist / Sinistcha — **34.895547, 135.805962**
-
-Allow **~20–30 min total** as part of the Uji walk. The Nintendo Museum Pikachu plaque is intentionally saved for Day 19 because it requires the museum visit.
-
-**Why it fits:**  
-It adds a different kind of traditional culture from Kyoto itself: tea, river, Heian-era atmosphere, and a calmer town scale.

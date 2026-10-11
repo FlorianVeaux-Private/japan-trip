@@ -35,7 +35,7 @@ Private confirmation URLs, authentication tokens, reservation numbers, payment d
 
 | Date | Time | Restaurant | Details |
 | :---- | :---- | :---- | :---- |
-| Sun Oct 18 | 12:00 (noon) | Michelin-starred restaurant — name not yet recorded | Reservation confirmed; add restaurant name, address, and booking details when available. |
+| Fri Oct 16 | 12:00 (noon) | **Kikunoi Honten (Kyoto)** | Confirmed via My Concierge Japan for 2 adults; Japanese-style room seating; course **¥37,950 per person** (beverages excluded). Address: 459 Shimokawara-cho, Yasakatoriimae-sagaru, Shimokawara-dori, Higashiyama-ku, Kyoto 605-0825. Smart casual; shoes off (wear socks); no perfume/cologne/scented deodorant. Arrive 5 minutes early; more than 15 minutes late means cancellation without refund. For changes, cancellations or delays, contact My Concierge Japan, not the restaurant. No allergies or dietary restrictions declared. |
 
 ## Estimated transport budget
 

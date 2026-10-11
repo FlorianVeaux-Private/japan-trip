@@ -12,12 +12,12 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 | 13 | Kanazawa | Milotic | 36.559162, 136.661926 | Central Kanazawa sightseeing |
 | 17 | Kyoto — Higashiyama | Pichu / Cleffa / Igglybuff | 35.003370, 135.780573 | Higashiyama → Okazaki |
 | 17 | Kyoto — Okazaki | Cyndaquil / Darmanitan | 35.014858, 135.782013 | Higashiyama → Okazaki |
-| 18 | Kyoto — Arashiyama | Ho-Oh | 35.011863, 135.678745 | Arashiyama / Sagano |
-| 19 | Kyoto — Umekoji | Totodile / Azumarill | 34.987804, 135.743538 | Kyoto Station / Umekoji side |
+| 20 | Kyoto — Arashiyama | Ho-Oh | 35.011863, 135.678745 | Arashiyama / Sagano; choose Oct 18 or Oct 20 depending on crowd and route |
+| 20 | Kyoto — Umekoji | Totodile / Azumarill | 34.987804, 135.743538 | Kyoto Station / Umekoji side, if convenient |
 | 19 | Uji — Nintendo Museum | Pikachu | 34.892561, 135.784525 | At the fixed museum visit; museum ticket required |
 | 20 | Kyoto — Nishikyogoku | Chikorita / Shiftry | 34.994784, 135.714323 | Western Kyoto only if already useful |
-| 16 | Uji | Scorbunny / Spinda | 34.890627, 135.809787 | Central Uji walk |
-| 16 | Uji | Poltchageist / Sinistcha | 34.895547, 135.805962 | Central Uji walk |
+| 19 | Uji | Scorbunny / Spinda | 34.890627, 135.809787 | Central Uji walk |
+| 19 | Uji | Poltchageist / Sinistcha | 34.895547, 135.805962 | Central Uji walk |
 | 22 | Koyasan | Urshifu | 34.212091, 135.583052 | Koyasan town walk |
 | 23 | Shirahama | Pancham / Finizen | 33.675779, 135.387056 | Short JR side trip from Kii-Tanabe; plaque is at Shirahama Station |
 | 27 | Nachikatsuura | Celebi | 33.668973, 135.902917 | Nachi / Kii-Katsuura day |

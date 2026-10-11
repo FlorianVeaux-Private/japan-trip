@@ -2,18 +2,14 @@
 
 **Sleep:** Kyoto
 
-### Fixed reservation — Michelin-starred lunch
+Use this as a Kyoto sightseeing day, independent of the Michelin reservation, which has moved to Oct 16.
 
-- **Sunday, Oct 18 at 12:00 (noon)** — Michelin-starred restaurant reservation confirmed.
-- **Restaurant name and address:** not yet recorded here; add these when available.
-- Keep the late morning and early afternoon clear around the reservation. The exact Kyoto route may need adjusting once the restaurant location is known.
+### Possible plan — Arashiyama / Sagano
 
-### Poké Lid — Arashiyama
+- Go to the bamboo grove early if choosing Arashiyama, before the main crowds.
+- Explore the Sagano area at a relaxed pace rather than limiting the visit to the bamboo grove.
+- Collect the **Ho-Oh Poké Lid — 35.011863, 135.678745** if it fits the route; allow **~15–20 min**.
+- Keep the afternoon flexible for quieter streets, temples or a return to central Kyoto.
 
-Collect the **Ho-Oh** Poké Lid at **35.011863, 135.678745** while doing the Arashiyama / Sagano section. Allow **~15–20 min**; it should replace a little aimless wandering rather than extend the day.
+Sunday is likely to be busy in Arashiyama, so choose it only if the area is a priority. Otherwise, use this as another Kyoto neighborhood / temple day and move Arashiyama to Oct 20.
 
-Possible later use:
-
-- Arashiyama early
-- Sagano area
-- Quieter afternoon away from the busiest streets

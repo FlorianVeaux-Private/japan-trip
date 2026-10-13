@@ -36,7 +36,7 @@ Book these early:
 - [x] **Kanazawa → Kyoto (Oct 14)** — confirmed. **Tsurugi 13, Kanazawa 09:05 → Tsuruga 10:01; Thunderbird 14, Tsuruga 10:14 → Kyoto 11:09.** 2 adults, ordinary reserved seats. **Booking details stored in 1Password.**
 - [x] **Koya Limited Express (Oct 22)** — **confirmed: Koya 1, Namba 10:00 → Gokurakubashi 11:31; 2 adults, Car 4 seats 23/24.** Limited Express ticket already purchased. Pay Kintetsu and Nankai basic fares by IC; buy the cable car ticket at Gokurakubashi; use IC for the Koyasan-area Rinkan bus. No Koyasan World Heritage Digital Ticket needed.
 - [ ] **Hiroshima → Hakata Shinkansen (Nov 6)** — reserve when the Oct 6 window opens, before the international ferry.
-- [ ] **Tea ceremony (Uji/Kyoto)** — reserve ahead for the target day if you want a specific provider/time.
+- [x] **Taihoan tea ceremony (Uji, Oct 19)** — booked for **11:30**, **2 people**, **usucha/matcha**; allow ~20–30 minutes. Exchange the confirmation for the ticket at the Uji City Tourist Information Center opposite Taihoan.
 
 ### What can stay flexible
 

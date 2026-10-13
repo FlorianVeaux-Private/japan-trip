@@ -5,7 +5,7 @@
 
 > - **Saihoji (Kokedera moss temple)** — online reservation opens **exactly 2 months ahead** (≈ Aug 20 for an Oct 20 visit).  
 > - **A top kaiseki dinner** — the best places book weeks ahead, more so in foliage season.  
-> - **A formal tea ceremony** — reserve ahead.  
+> - **Taihoan tea ceremony** — **booked for Mon Oct 19 at 11:30**, two people, usucha/matcha.  
 > - **Arashiyama bamboo grove** — go at opening to beat crowds (no booking, but timing matters).
 
 > ### 🎮 Nintendo Museum — fixed reservation

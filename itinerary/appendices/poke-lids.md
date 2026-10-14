@@ -10,12 +10,12 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 | 4 | Ueno | Baltoy / Bronzor | 35.717715, 139.775397 | Short walking loop after Akihabara |
 | 11 | Takayama | Pansage / Pansear / Panpour | 36.144911, 137.257235 | Old-town walking loop |
 | 13 | Kanazawa | Milotic | 36.559162, 136.661926 | Central Kanazawa sightseeing |
-| 17 | Kyoto — Higashiyama | Pichu / Cleffa / Igglybuff | 35.003370, 135.780573 | Higashiyama → Okazaki |
-| 17 | Kyoto — Okazaki | Cyndaquil / Darmanitan | 35.014858, 135.782013 | Higashiyama → Okazaki |
-| 20 | Kyoto — Arashiyama | Ho-Oh | 35.011863, 135.678745 | Arashiyama / Sagano; choose Oct 18 or Oct 20 depending on crowd and route |
-| 20 | Kyoto — Umekoji | Totodile / Azumarill | 34.987804, 135.743538 | Kyoto Station / Umekoji side, if convenient |
+| 16 | Kyoto — Higashiyama | Pichu / Cleffa / Igglybuff | 35.003370, 135.780573 | Gion / Higashiyama day |
+| 17 | Kyoto — Okazaki | Cyndaquil / Darmanitan | 35.014858, 135.782013 | Heian-jingu / Okazaki area |
+| 18 | Kyoto — Arashiyama | Ho-Oh | 35.011863, 135.678745 | Arashiyama / Sagano options |
+| 15 | Kyoto — Umekoji | Totodile / Azumarill | 34.987804, 135.743538 | Kyoto Station / Umekoji side, if convenient on the south / central day |
 | 19 | Uji — Nintendo Museum | Pikachu | 34.892561, 135.784525 | At the fixed museum visit; museum ticket required |
-| 20 | Kyoto — Nishikyogoku | Chikorita / Shiftry | 34.994784, 135.714323 | Western Kyoto only if already useful |
+| Unassigned | Kyoto — Nishikyogoku | Chikorita / Shiftry | 34.994784, 135.714323 | Outdated idea — not part of the current day-by-day program; only collect if a suitable slot appears |
 | 19 | Uji | Scorbunny / Spinda | 34.890627, 135.809787 | Central Uji walk |
 | 19 | Uji | Poltchageist / Sinistcha | 34.895547, 135.805962 | Central Uji walk |
 | 22 | Koyasan | Urshifu | 34.212091, 135.583052 | Koyasan town walk |
@@ -28,6 +28,13 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 | 30 | Higashiosaka | Yamper / Togedemaru | 34.669486, 135.630586 | East-Osaka loop |
 | 34 | Matsuyama — Okaido | Tsareena / Bounsweet | 33.841060, 132.770240 | Central Matsuyama evening |
 | 34 | Matsuyama — Sogo Park | Escavalier / Sirfetch'd | 33.844260, 132.740780 | Optional only after cycling; do not force it |
+
+### Outdated idea — former Kyoto Poké Lid day assignments (retained for reference)
+
+- **Higashiyama / Pichu-Cleffa-Igglybuff:** formerly assigned to Day 17; current assignment is Day 16.
+- **Arashiyama / Ho-Oh:** formerly assigned to Day 20, or Day 18 depending on crowds; current assignment is Day 18.
+- **Umekoji / Totodile-Azumarill:** formerly assigned to Day 20; current option is Day 15.
+- **Nishikyogoku / Chikorita-Shiftry:** formerly assigned to Day 20; no longer attached to a planned Kyoto day.
 
 ## Rules for the trip
 

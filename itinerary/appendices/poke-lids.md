@@ -29,13 +29,6 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 | 34 | Matsuyama — Okaido | Tsareena / Bounsweet | 33.841060, 132.770240 | Central Matsuyama evening |
 | 34 | Matsuyama — Sogo Park | Escavalier / Sirfetch'd | 33.844260, 132.740780 | Optional only after cycling; do not force it |
 
-### Outdated idea — former Kyoto Poké Lid day assignments (retained for reference)
-
-- **Higashiyama / Pichu-Cleffa-Igglybuff:** formerly assigned to Day 17; current assignment is Day 16.
-- **Arashiyama / Ho-Oh:** formerly assigned to Day 20, or Day 18 depending on crowds; current assignment is Day 18.
-- **Umekoji / Totodile-Azumarill:** formerly assigned to Day 20; current option is Day 15.
-- **Nishikyogoku / Chikorita-Shiftry:** formerly assigned to Day 20; no longer attached to a planned Kyoto day.
-
 ## Rules for the trip
 
 - **Never add a major transport detour just for a Poké Lid.**

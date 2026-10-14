@@ -14,7 +14,6 @@
 
 Choose the temples and gardens you most want to visit the day before.
 
-> **Outdated idea — retained for reference:** Kyoto base day. Good for a flexible in-city day.
 
 ### Poké Lids — Higashiyama / Okazaki
 
@@ -25,10 +24,3 @@ Build the eastern Kyoto route around the two plaques here rather than adding sep
 
 Together they are a natural extension of a Higashiyama → Okazaki day. Allow **~30–45 min total** for walking/photo stops.
 
-### Outdated ideas — retained for reference
-
-- Higashiyama early  
-- temple gardens  
-- craft streets  
-- tea  
-- quieter northern or western Kyoto

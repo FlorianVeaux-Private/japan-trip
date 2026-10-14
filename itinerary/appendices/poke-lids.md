@@ -15,7 +15,7 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 | 18 | Kyoto — Arashiyama | Ho-Oh | 35.011863, 135.678745 | Arashiyama / Sagano options |
 | 15 | Kyoto — Umekoji | Totodile / Azumarill | 34.987804, 135.743538 | Kyoto Station / Umekoji side, if convenient on the south / central day |
 | 19 | Uji — Nintendo Museum | Pikachu | 34.892561, 135.784525 | At the fixed museum visit; museum ticket required |
-| Unassigned | Kyoto — Nishikyogoku | Chikorita / Shiftry | 34.994784, 135.714323 | Outdated idea — not part of the current day-by-day program; only collect if a suitable slot appears |
+| Unassigned | Kyoto — Nishikyogoku | Chikorita / Shiftry | 34.994784, 135.714323 | Low priority; collect only if a western Kyoto visit independently fits the day |
 | 19 | Uji | Scorbunny / Spinda | 34.890627, 135.809787 | Central Uji walk |
 | 19 | Uji | Poltchageist / Sinistcha | 34.895547, 135.805962 | Central Uji walk |
 | 22 | Koyasan | Urshifu | 34.212091, 135.583052 | Koyasan town walk |

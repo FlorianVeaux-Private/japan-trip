@@ -37,12 +37,12 @@ The itinerary is split into small Markdown files so individual sections can be e
 
 ### Kyoto and Uji
 
-- [Day 15 — Oct 15 — Kyoto base day](days/day-15.md)
-- [Day 16 — Oct 16 (Fri) — Uji day trip from Kyoto](days/day-16.md)
-- [Day 17 — Oct 17 (Sat) — Kyoto base day](days/day-17.md)
-- [Day 18 — Oct 18 — Kyoto base day](days/day-18.md)
-- [Day 19 — Oct 19 — Kyoto base day](days/day-19.md)
-- [Day 20 — Oct 20 — Kyoto base day](days/day-20.md)
+- [Day 15 — Oct 15 — South Kyoto + central options](days/day-15.md)
+- [Day 16 — Oct 16 (Fri) — Gion, Higashiyama + Michelin lunch](days/day-16.md)
+- [Day 17 — Oct 17 (Sat) — North-east Kyoto temples](days/day-17.md)
+- [Day 18 — Oct 18 — North / north-west Kyoto + Arashiyama options](days/day-18.md)
+- [Day 19 — Oct 19 — Uji + Nintendo Museum](days/day-19.md)
+- [Day 20 — Oct 20 — Kurama–Kibune hike](days/day-20.md)
 
 ### Nara
 

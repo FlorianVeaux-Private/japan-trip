@@ -25,8 +25,4 @@
 
 Choose among the nearby sights around the fixed lunch reservation; this is an option pool, not a mandatory checklist.
 
-### Outdated idea — earlier general plan (retained for reference)
-
-Keep the late morning and early afternoon clear around lunch. Once the restaurant visit is finished, choose nearby Higashiyama / Gion sightseeing depending on energy and the actual end time. Avoid booking another fixed-time activity on this day.
-
-Uji is moved to **Monday, Oct 19**, combined with the Nintendo Museum booking.
+Keep the morning focused on Kiyomizu-dera and nearby walking. After lunch, choose the remaining sights based on the actual finish time and energy. Do not book another fixed-time activity.

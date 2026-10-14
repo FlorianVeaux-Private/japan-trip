@@ -21,9 +21,4 @@ Typical current route:
 - Stroll along the **Kamo River** around Shijo–Sanjo
 - Explore **Pontocho** before dinner; choose a casual Kyoto/Japanese meal nearby
 
-### Outdated idea — earlier arrival-day placeholder (retained for reference)
-
-- Travel in the morning or early afternoon
-- Check in to Kyoto lodging
-- Gentle first Kyoto walk
-- Easy dinner
+- Arrive at Kyoto Station at 11:09 and go to Waka Kyoto Kawaramachi Hotel to drop bags. Ask about early check-in and check in when the room is ready; otherwise return after sightseeing.

@@ -13,9 +13,17 @@ Typical current route:
 
 **Booked:** Tsurugi 13, Kanazawa **09:05 → 10:01** Tsuruga; Thunderbird 14, Tsuruga **10:14 → 11:09** Kyoto. 2 adults, ordinary reserved seats. **Booking details stored in 1Password.**
 
-### Plan
+### Current program — central Kyoto
 
-- Travel in the morning or early afternoon  
-- Check in to Kyoto lodging  
-- Gentle first Kyoto walk  
+- Lunch near Kawaramachi
+- **Nijo Castle** — prioritize Ninomaru Palace, then the garden and grounds
+- Walk along the **Takase River** through Kiyamachi
+- Stroll along the **Kamo River** around Shijo–Sanjo
+- Explore **Pontocho** before dinner; choose a casual Kyoto/Japanese meal nearby
+
+### Outdated idea — earlier arrival-day placeholder (retained for reference)
+
+- Travel in the morning or early afternoon
+- Check in to Kyoto lodging
+- Gentle first Kyoto walk
 - Easy dinner

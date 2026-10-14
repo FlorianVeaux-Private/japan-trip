@@ -1,8 +1,19 @@
-## Day 17 — Oct 17 (Sat) — Kyoto base day
+## Day 17 — Oct 17 (Sat) — North-east Kyoto temples
 
 **Sleep:** Kyoto
 
-Kyoto base day. Good for a flexible in-city day.
+### Current program — north-east Kyoto options
+
+- **Ginkaku-ji**
+- **Philosopher’s Path**
+- **Honen-in**
+- **Eikan-do**
+- **Nanzen-ji**
+- **Heian-jingu**
+- **Murin-an Villa**
+
+Choose the temples and gardens you most want to visit the day before.
+
 
 ### Poké Lids — Higashiyama / Okazaki
 
@@ -13,10 +24,3 @@ Build the eastern Kyoto route around the two plaques here rather than adding sep
 
 Together they are a natural extension of a Higashiyama → Okazaki day. Allow **~30–45 min total** for walking/photo stops.
 
-Possible later themes:
-
-- Higashiyama early  
-- temple gardens  
-- craft streets  
-- tea  
-- quieter northern or western Kyoto

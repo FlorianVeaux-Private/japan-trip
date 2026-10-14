@@ -1,4 +1,4 @@
-## Day 16 — Oct 16 (Fri) — Kyoto + Michelin-starred lunch
+## Day 16 — Oct 16 (Fri) — Gion, Higashiyama + Michelin lunch
 
 **Sleep:** Kyoto
 
@@ -12,7 +12,20 @@
 - **No perfume, cologne or scented deodorant.** No allergies or dietary restrictions were declared in the booking.
 - For any delay, change or cancellation, contact **My Concierge Japan** by replying to the confirmation email; do not contact the restaurant directly. Changes/cancellations must be requested by 15:00 JST on Oct 13 to fall within the stated 3-day deadline.
 
-### Plan
+### Current program — Gion / Higashiyama options
+
+- **Kiyomizu-dera** early
+- **Ninenzaka / Sannenzaka**
+- **Kikunoi Honten at 12:00** — confirmed reservation
+- **Yasaka Jinja**
+- **Maruyama Koen**
+- **Chion-in**
+- **Shoren-in**
+- **Kennin-ji**
+
+Choose among the nearby sights around the fixed lunch reservation; this is an option pool, not a mandatory checklist.
+
+### Outdated idea — earlier general plan (retained for reference)
 
 Keep the late morning and early afternoon clear around lunch. Once the restaurant visit is finished, choose nearby Higashiyama / Gion sightseeing depending on energy and the actual end time. Avoid booking another fixed-time activity on this day.
 

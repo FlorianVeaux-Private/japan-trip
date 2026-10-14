@@ -8,22 +8,4 @@
 - Hike the forest route from **Kurama to Kibune**
 - Explore the **Kibune** area
 
-
-
-### Outdated idea — previous flexible-day plan (retained for reference)
-
-Final full Kyoto day before Nara. Keep this as a flexible overflow day after Uji + Nintendo Museum on Oct 19.
-
-### Outdated idea — flexible-day Poké Lid options (retained for reference)
-
-If the **Chikorita / Shiftry — 34.994784, 135.714323** plaque has not already been collected, attach it to a western Kyoto outing. Allow **~20–30 min**. **Do not travel to Nishikyogoku solely for the plaque** if the day is better used elsewhere.
-
-The **Ho-Oh — 35.011863, 135.678745** plaque in Arashiyama / Sagano can be collected today instead if that area was not visited on Oct 18.
-
-The **Totodile / Azumarill — 34.987804, 135.743538** plaque near Umekoji is another optional collection if convenient on a Kyoto Station-area outing.
-
-Keep the rest of the day for:
-- missed major Kyoto sights
-- slower neighborhoods, gardens, shopping or craft areas
-- a nature-oriented outing such as Kurama/Kibune if still desired
-- rest before Nara, Koyasan and Kumano
+This is the last full Kyoto day before moving to Nara tomorrow. Keep the remainder of the day flexible and repack for the transfer rather than adding an out-of-the-way Poké Lid.

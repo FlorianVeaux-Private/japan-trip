@@ -4,11 +4,11 @@
 
 ### Travel: Osaka to Himeji
 
-Take the direct JR Kobe Line Special Rapid from Osaka Station (around **1 hour**). Leave Hotel ASIATO around **07:00** and target a train departing Osaka Station around **07:30–07:45**. Check the live departure board or route planner that morning; this is a target window, not a booked train.
+Take the direct JR Kobe Line Special Rapid from Osaka Station (around **1 hour**). Leave Hotel ASIATO around **06:45–07:00** and target a train departing Osaka Station around **07:15–07:30**. Check the live departure board or route planner that morning; this is a target window, not a booked train.
 
 ### Plan
 
-- Arrive at Himeji around **08:30–08:45**
+- Arrive at Himeji around **08:15–08:30**
 - Walk north along Otemae-dori towards the castle; look for the coloured **Sagisou orchid + water manhole**
 - **09:00–11:45 — Himeji Castle**, including the main keep
 - **11:45–12:30 — Lunch** near the castle

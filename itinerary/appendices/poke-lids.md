@@ -21,11 +21,6 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 | 22 | Koyasan | Urshifu | 34.212091, 135.583052 | Koyasan town walk |
 | 23 | Shirahama | Pancham / Finizen | 33.675779, 135.387056 | Short JR side trip from Kii-Tanabe; plaque is at Shirahama Station |
 | 27 | Nachikatsuura | Celebi | 33.668973, 135.902917 | Nachi / Kii-Katsuura day |
-| 30 | Higashiosaka | Magnemite / Magneton | 34.679788, 135.601221 | East-Osaka loop |
-| 30 | Higashiosaka | Klink / Klang | 34.667710, 135.639890 | East-Osaka loop |
-| 30 | Higashiosaka | Elekid / Mawile | 34.680678, 135.650788 | East-Osaka loop |
-| 30 | Higashiosaka | Raikou | 34.667678, 135.626309 | East-Osaka loop |
-| 30 | Higashiosaka | Yamper / Togedemaru | 34.669486, 135.630586 | East-Osaka loop |
 | 34 | Matsuyama — Okaido | Tsareena / Bounsweet | 33.841060, 132.770240 | Central Matsuyama evening |
 | 34 | Matsuyama — Sogo Park | Escavalier / Sirfetch'd | 33.844260, 132.740780 | Optional only after cycling; do not force it |
 
@@ -34,5 +29,4 @@ The goal is to collect the Poké Lids that fit the existing route without creati
 - **Never add a major transport detour just for a Poké Lid.**
 - Prefer plaques already on the day's walking route or within a short local-train/bus hop.
 - **Shirahama is the deliberate exception worth keeping:** the plaque is directly at JR Shirahama Station, and the Oct 23 Kii-Tanabe afternoon is otherwise deliberately free.
-- **Higashiosaka is the only cluster that can justify a half-day side loop:** five plaques are concentrated in the same city, and Day 30 is intentionally flexible. Pair it with Ishikiri / eastern Osaka rather than making it a Pokémon-only mission.
 - If fatigue, weather or timing makes a plaque inconvenient, skip it. The itinerary takes priority.

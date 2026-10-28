@@ -6,6 +6,7 @@ The goal is to collect the particularly good **full-color decorative manhole cov
 
 | Day | Place | Natural motif | Location / route | Integration |
 | :--: | :-- | :-- | :-- | :-- |
+| 28 | Osaka | Osaka Castle + cherry blossoms + waves | Shinsaibashi-suji Shopping Street | Look for the coloured cover while walking the arcade; no separate detour |
 | 6 | Nikko | Lake Chuzenji + Kegon Falls | Lake Chuzenji / Kegon Falls area | Directly on the Day 6 nature route |
 | 11 | Takayama | Kobano mitsubatsutsuji flowers + foliage | Nakabashi Park | Directly between Takayama Jinya and the old town |
 | 21 | Nara | Sika deer + yaezakura cherry blossoms | South of Kintetsu Nara Station | Natural start/end point for the Nara Park / Naramachi day |
@@ -19,11 +20,11 @@ The goal is to collect the particularly good **full-color decorative manhole cov
 - Prioritize covers already on the day's walking route.
 - Do not add a major transport detour solely for a manhole cover.
 - If timing, weather or fatigue makes one inconvenient, skip it.
-- The six above were selected because they combine a clearly natural motif with a location that can be attached to an existing itinerary day.
+- The seven above were selected because they combine a distinctive motif with a location that can be attached to an existing itinerary day.
 
 ## Practical priority
 
-**High-value / essentially free:** Nikko, Takayama, Nara, Himeji.
+**High-value / on-route:** Osaka, Nikko, Takayama, Nara, Himeji.
 
 **Good but opportunistic:** Matsuyama.
 

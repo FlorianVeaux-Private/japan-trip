@@ -64,7 +64,7 @@ The itinerary is split into small Markdown files so individual sections can be e
 ### Osaka and Himeji
 
 - [Day 29 — Oct 29 — Himeji day trip from Osaka](days/day-29.md)
-- [Day 30 — Oct 30 — Osaka flexible day](days/day-30.md)
+- [Day 30 — Oct 30 — Osaka classic sights and food](days/day-30.md)
 
 ### Kinosaki Onsen and Onomichi repositioning
 
@@ -102,4 +102,5 @@ The itinerary is split into small Markdown files so individual sections can be e
 - [Condensed travel and transport spine](appendices/transport-spine.md)
 - [Luggage strategy](appendices/luggage-strategy.md)
 - [Booking priorities](appendices/booking-priorities.md)
+- [Decorative manhole covers shortlist](appendices/decorative-manhole-lids.md)
 - [Poké Lid integration](appendices/poke-lids.md)

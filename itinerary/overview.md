@@ -14,7 +14,7 @@ The trip is full but coherent. The most logistically demanding stretch is the mi
 
 **Koyasan → Nakahechi / Hongu → Shingu / Hayatama → Nachi / Kii-Katsuura → Osaka → Kinosaki Onsen → Onomichi → Shimanami Kaido → Matsuyama → Hiroshima → Miyajima → Hakata → Busan ferry**
 
-This is also one of the most distinctive parts of the trip. There is an Osaka recovery block after Kumano, then Kinosaki as a one-night onsen-town reset before the Shimanami cycling section. Matsuyama is a one-night Shikoku landing after the ride: enough time for Matsuyama Castle and the Seto Inland Sea ferry. Hiroshima gets a focused Peace Memorial day, followed by a full Miyajima day before the Nov 6 ferry from Hakata to Busan.
+This is also one of the most distinctive parts of the trip. There is an Osaka city-sights and food block after Kumano, including a Himeji Castle / Koko-en day trip, then Kinosaki as a one-night onsen-town reset before the Shimanami cycling section. Matsuyama is a one-night Shikoku landing after the ride: enough time for Matsuyama Castle and the Seto Inland Sea ferry. Hiroshima gets a focused Peace Memorial day, followed by a full Miyajima day before the Nov 6 ferry from Hakata to Busan.
 
 In Kumano, the route completes the Kumano Sanzan by walking the Nakahechi to Hongu, then visiting Hayatama Taisha in Shingu and giving Nachi its own day from a two-night Kii-Katsuura base.
 
@@ -34,7 +34,7 @@ The trip finishes westward — Shimanami Kaido → Matsuyama → Hiroshima → M
 | Oct 21 | 21 | Nara | Ancient capital overnight (really one afternoon + evening; leave ~9am for Koyasan) |
 | Oct 22 | 22 | Koyasan | Temple stay (lunchtime arrival → afternoon + Okunoin at dusk + temple morning) |
 | Oct 23–27 | 23–27 | Kumano Kodo / Yunomine / Kii-Katsuura | Nakahechi pilgrimage taster, Hongu, Hayatama, Nachi, onsen/coast |
-| Oct 28–30 | 28–30 | Osaka | Recovery, food, Himeji day trip, flexible time |
+| Oct 28–30 | 28–30 | Osaka | Classic Osaka sights and food, Himeji Castle + Koko-en day trip |
 | Oct 31–Nov 1 | 31–32 | Kinosaki Onsen / Onomichi | Kinosaki reset (1 night); Nov 1 is a logistics/travel day (~3–3.5h) to the cycling start |
 | Nov 2–3 | 33–34 | Shimanami Kaido / Matsuyama | 2-day cycling route, ending with a recovery night in Matsuyama |
 | Nov 4 | 35 | Matsuyama / Hiroshima | Matsuyama Castle morning (half day), midday Super Jet ferry to Hiroshima, then light Hiroshima orientation |

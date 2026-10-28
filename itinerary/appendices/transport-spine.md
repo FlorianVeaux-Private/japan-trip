@@ -21,7 +21,7 @@ This section summarizes every major move between bases.
 | 26 | Yunomine / Hongu → Shingu / Hayatama Taisha → Kii-Katsuura | Local bus + train/bus | Moderate | Focused Hayatama stop; do not include Nachi today by default. |
 | 27 | Kii-Katsuura → Daimon-zaka / Nachi → Kii-Katsuura | Local bus + walking | Moderate | Dedicated Nachi finale; second night in Kii-Katsuura. |
 | 28 | Kii-Katsuura → Osaka | **JR limited express Kuroshio 22** | Hard/moderate | **Booked: 11:49 → 15:46; 2 adults, ordinary reserved non-smoking, Car 3 seats 5C/5D; reservation 40003.** Long but straightforward exit; no ambitious sightseeing. |
-| 29 | Osaka → Himeji → Osaka | Shinkansen or JR special rapid | Easy | 30 min by shinkansen, around 1 hour by special rapid. |
+| 29 | Osaka → Himeji → Osaka | JR Kobe Line Special Rapid | Easy | Target an Osaka Station departure around 07:15–07:30; Himeji Castle and Koko-en; target a mid/late-afternoon return. Confirm live train times on the day. |
 | 31 | Osaka → Kinosaki Onsen | **JR limited express Kounotori 1** | Moderate | **Booked: 08:12 → 10:58; 2 adults, ordinary reserved non-smoking, Car 2 seats 13A/13B. Details stored in 1Password.** Forward main luggage to the Hiroshima hotel before leaving Osaka. Protect the Oct 31 evening for the onsen-town experience and the Nov 1 ryokan breakfast. |
 | 32 | Kinosaki Onsen → Onomichi | **Kounotori 12 + Nozomi 25 + JR local 4409M** | Moderate | **Booked: 09:33 → 12:29 Shin-Osaka; 13:02 → 14:03 Fukuyama; 14:31 → 14:50 Onomichi.** Protect the ryokan breakfast; Nov 1 is a travel-first day with only a short Onomichi evening. |
 | 33 | Onomichi → Hakata-jima | Ferry + bike (~45–50 km) | Active | Longer first half of Shimanami; sleep at confirmed Hakata-jima ryokan. |

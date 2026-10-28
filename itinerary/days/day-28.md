@@ -12,13 +12,13 @@ This is a long but straightforward direct exit from the Kii Peninsula.
 
 ### Plan
 
-- Slow morning in Kii-Katsuura  
-- Optional harbor walk, tuna breakfast, or relaxed hotel/onsen morning  
-- **11:49 Kuroshio 22 → 15:46 Osaka**  
-- Check in  
-- Laundry if needed  
-- Simple dinner  
-- No ambitious sightseeing
+- Slow morning in Kii-Katsuura
+- **11:49 Kuroshio 22 → 15:46 Osaka** (booked)
+- Check in at Hotel ASIATO and take a short break
+- Walk Shinsaibashi-suji Shopping Street; look for the coloured Osaka Castle / cherry-blossom manhole on the route
+- Continue to Dotonbori canal and the Glico sign after dark
+- Walk through Hozenji Yokocho
+- Dinner in Namba; keep the evening relaxed
 
 ### Notes
 

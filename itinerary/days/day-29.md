@@ -4,20 +4,19 @@
 
 ### Travel: Osaka to Himeji
 
-Options:
-
-- Shin-Osaka → Himeji by shinkansen: fastest, roughly **30 minutes**  
-- Osaka Station → Himeji by JR special rapid: slower, roughly **1 hour**, but cheaper and direct from central Osaka
+Take the direct JR Kobe Line Special Rapid from Osaka Station (around **1 hour**). Leave Hotel ASIATO around **07:00** and target a train departing Osaka Station around **07:30–07:45**. Check the live departure board or route planner that morning; this is a target window, not a booked train.
 
 ### Plan
 
-- Morning train to Himeji  
-- **Natural decorative manhole cover — Otemae-dori**  
-- Himeji Castle  
-- Kokoen Garden  
-- Lunch near castle or station  
-- Optional Mount Shosha if you want a fuller day and have energy  
-- Return to Osaka for dinner
+- Arrive at Himeji around **08:30–08:45**
+- Walk north along Otemae-dori towards the castle; look for the coloured **Sagisou orchid + water manhole**
+- **09:00–11:45 — Himeji Castle**, including the main keep
+- **11:45–12:30 — Lunch** near the castle
+- **12:30–14:00 — Koko-en Garden**
+- **14:00–15:00 — Walk back to Himeji Station**
+- Target a return train around **14:30–15:00**, reaching Osaka around **15:30–16:15**
+- Optional: Umeda Sky Building for sunset if the weather and energy are good
+- Dinner in Osaka
 
 ### Decorative manhole cover — Himeji
 

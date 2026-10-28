@@ -1,31 +1,15 @@
-## Day 30 — Oct 30 — Osaka flexible day
+## Day 30 — Oct 30 — Osaka classic sights and food
 
 **Sleep:** Osaka
 
-Keep this day flexible.
+### Plan
 
-### Poké Lid option — Higashiosaka
+- **09:00–09:35 — Namba Yasaka Shrine**
+- **10:15–11:45 — Osaka Castle Park**: moat, walls, gates and exterior; the interior is lower priority after Himeji
+- **12:15–13:00 — Kuromon Market** for a light lunch
+- **13:00–13:30 — Hotel break**
+- **14:00–17:15 — Shinsekai and Tsutenkaku area**
+- **17:15–18:30 — Kushikatsu dinner**
+- Evening — Return to the hotel, pack, and confirm luggage forwarding for the Oct 31 departure to Kinosaki
 
-There are **five** Poké Lids in Higashiosaka. Because Day 30 is deliberately flexible, this is the only place where a more deliberate side loop is justified — but it should be paired with an **Ishikiri / eastern Osaka** outing, not treated as a Pokémon-only mission. Higashiosaka itself recommends Ishikiri Shrine and its old approach as a local sightseeing area. citeturn4search0turn4search2
-
-Plaques:
-
-- Magnemite / Magneton — **34.679788, 135.601221**
-- Klink / Klang — **34.667710, 135.639890**
-- Elekid / Mawile — **34.680678, 135.650788**
-- Raikou — **34.667678, 135.626309**
-- Yamper / Togedemaru — **34.669486, 135.630586**
-
-Allow roughly **half a day** if doing the full cluster. If the day is better used for recovery, skip the cluster rather than forcing it.
-
-Possible uses:
-
-- Osaka food neighborhoods  
-- Kyoto overflow  
-- rest before Onomichi and Shimanami  
-- shopping  
-- laundry  
-- no-pressure city day
-
-**Do not overplan it yet.**  
-The trip will benefit from one genuinely flexible day before the Kinosaki transfer and Shimanami cycling section.
+This is the last full Osaka day before the Kinosaki transfer. Keep the evening simple and protect the next morning's **08:12 Kounotori 1** departure.
